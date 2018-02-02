@@ -16,10 +16,11 @@ tail --lines=+3 $cleansed_data | head --lines=-1 | sort -t ',' -k 1 >> $temp_dat
 mv $temp_data $cleansed_data
 
 tail --lines=+3 $cleansed_data | head --lines=-1 | awk -F ',' '{
-    sum[$1]+=$5
-    count[$1]+=1
+     sum[$1]+=$5
+     count[$1]+=1
+     data[$1]=data[$1]"{\"iata\":"$2", \"name\":"$3" "$4", \"on_time\": "$5"},"
    }
    END {
-     for (key in sum) printf("%s,%s\n", key, sum[key]/count[key])
+     for (state in sum) printf("{\"state\":\"%s\",\"on_time\":%s,\"airports\":[%s]},\n", state, sum[state]/count[state], substr(data[state],0,length(data[state])-1))
    }' \
-   | sort +0n -t ',' -k 2 > $average_data
+   | sort +0n -t ',' -k 2 | sed '$ s/.$//' > $average_data

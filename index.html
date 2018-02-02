@@ -70,6 +70,10 @@
           container: 'map',
           style: 'mapbox://styles/loganrakai/cjd28m04f36vn2srs7ru8549r'
         });
+        map.addSource('some id', {
+            type: 'geojson',
+            data: '/data/data_by_state.json'
+        });
       </script>
 
     </section>

@@ -75,6 +75,23 @@
             type: 'geojson',
             data: '/us-flight-delays/data/data_by_state.json'
           });
+
+          var layers = ['73.8%', '88.4%'];
+          var colors = ['#FF0000', '#00FF00'];
+          for (i = 0; i < layers.length; i++) {
+            var layer = layers[i];
+            var color = colors[i];
+            var item = document.createElement('div');
+            var key = document.createElement('span');
+            key.className = 'legend-key';
+            key.style.backgroundColor = color;
+
+            var value = document.createElement('span');
+            value.innerHTML = layer;
+            item.appendChild(key);
+            item.appendChild(value);
+            legend.appendChild(item);
+          }
         });
       </script>
 

@@ -19,6 +19,7 @@
   <!-- End Jekyll SEO tag -->
 
   <link rel="stylesheet" href="/us-flight-delays/assets/css/style.css">
+  <link rel="stylesheet" href="/us-flight-delays/assets/css/map.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
   <!--[if lt IE 9]>
@@ -63,37 +64,8 @@
 
       <h3 id="markdown">Percentage of Arrivals On Time</h3>
 
-      <div id="map" style="width: 100%; height: 500px;"></div>
-      <script>
-        mapboxgl.accessToken = 'pk.eyJ1IjoibG9nYW5yYWthaSIsImEiOiJjamQyN3g1MWEzYTkyMnFvNTQ4bTBiNmM5In0._rOGIXy3ShPY8239enazAw';
-        var map = new mapboxgl.Map({
-          container: 'map',
-          style: 'mapbox://styles/loganrakai/cjd28m04f36vn2srs7ru8549r'
-        });
-        map.on('load', function () {
-          map.addSource('on time', {
-            type: 'geojson',
-            data: '/us-flight-delays/data/data_by_state.json'
-          });
-
-          var layers = ['73.8%', '88.4%'];
-          var colors = ['#FF0000', '#00FF00'];
-          for (i = 0; i < layers.length; i++) {
-            var layer = layers[i];
-            var color = colors[i];
-            var item = document.createElement('div');
-            var key = document.createElement('span');
-            key.className = 'legend-key';
-            key.style.backgroundColor = color;
-
-            var value = document.createElement('span');
-            value.innerHTML = layer;
-            item.appendChild(key);
-            item.appendChild(value);
-            legend.appendChild(item);
-          }
-        });
-      </script>
+      <div id="on-time-arrival-map" class="map"></div>
+      <script src="/us-flight-delays/assets/js/map.js"></script>
 
     </section>
 

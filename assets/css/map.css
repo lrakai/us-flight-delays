@@ -17,17 +17,16 @@
     font-family: Arial, sans-serif;
     overflow: auto;
     border-radius: 3px;
+    color: rgba(0,0,0,0)
 }
 
 .map-feature-panel {
     top: 0;
-
 }
 
 .map-overlay h2, h3 {
     margin: 10px;
     font-size: 1.2em;
-    color: rgba(0,0,0,0)
 }
 
 .map-overlay h2 {

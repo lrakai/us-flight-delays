@@ -27,6 +27,8 @@ onTimeArrivalMap.on('load', function () {
         item.appendChild(value);
         legend.appendChild(item);
     }
+
+    map.getCanvas().style.cursor = 'default';
 });
 
 onTimeArrivalMap.on('mousemove', function (e) {

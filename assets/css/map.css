@@ -1,3 +1,7 @@
+.map-container {
+    position: relative;
+}
+
 .map {
     width: 100%;
     height: 500px;
@@ -8,17 +12,38 @@
     bottom: 0;
     right: 0;
     background: rgba(255, 255, 255, 0.8);
-    margin-right: 20px;
+    margin: 10px;
+    padding: 10px;
     font-family: Arial, sans-serif;
     overflow: auto;
     border-radius: 3px;
 }
 
+.map-feature-panel {
+    top: 0;
+
+}
+
+.map-overlay h2, h3 {
+    margin: 10px;
+    font-size: 1.2em;
+    color: rgba(0,0,0,0)
+}
+
+.map-overlay h2 {
+    display: block;
+    font-size: 1.5em;
+    -webkit-margin-before: 0.83em;
+    -webkit-margin-after: 0.83em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+
 .legend {
-    padding: 10px;
     box-shadow: 0 1px 2px rgba(0,0,0,0.10);
     line-height: 18px;
     height: 150px;
-    margin-bottom: 40px;
+    bottom: 0;
     width: 100px;
 }

@@ -18,6 +18,7 @@ onTimeArrivalMap.on('load', function () {
         var color = colors[i];
         var item = document.createElement('div');
         var key = document.createElement('span');
+        var legend = document.getElementById('on-time-arrival-legend');
         key.className = 'legend-key';
         key.style.backgroundColor = color;
 
@@ -38,8 +39,8 @@ onTimeArrivalMap.on('mousemove', function (e) {
     });
 
     if (states.length > 0) {
-        document.getElementById('pd').innerHTML = '<h3><strong>' + states[0].properties.name + '</strong></h3><p><strong><em>' + states[0].properties.on_time + '</strong> people per square mile</em></p>';
+        document.getElementById('on-time-arrival-feature').innerHTML = '<h3><strong>' + states[0].properties.name + '</strong></h3><p><strong><em>' + states[0].properties.on_time + '</strong> people per square mile</em></p>';
     } else {
-        document.getElementById('pd').innerHTML = '<p>Hover over a state!</p>';
+        document.getElementById('on-time-arrival-feature').innerHTML = '<p>Hover over a state!</p>';
     }
 });

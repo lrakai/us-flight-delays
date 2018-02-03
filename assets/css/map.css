@@ -9,7 +9,6 @@
 
 .map-overlay {
     position: absolute;
-    bottom: 0;
     right: 0;
     background: rgba(255, 255, 255, 0.8);
     margin: 10px;
@@ -17,6 +16,9 @@
     font-family: Arial, sans-serif;
     overflow: auto;
     border-radius: 3px;
+}
+
+.map h1 h2 h3 h4 h5 h6 p span div {
     color: rgba(0,0,0,0)
 }
 

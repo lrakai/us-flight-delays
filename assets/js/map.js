@@ -29,8 +29,8 @@ onTimeArrivalMap.on('load', function () {
         legend.appendChild(item);
     }
 
-    map.getCanvas().style.cursor = 'default';
-    map.fitBounds([[-133.2421875, 16.972741], [-47.63671875, 52.696361]]);
+    onTimeArrivalMap.getCanvas().style.cursor = 'default';
+    onTimeArrivalMap.fitBounds([[-133.2421875, 16.972741], [-47.63671875, 52.696361]]);
 });
 
 onTimeArrivalMap.on('mousemove', function (e) {

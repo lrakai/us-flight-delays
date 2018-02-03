@@ -31,11 +31,11 @@ onTimeArrivalMap.on('load', function () {
 
 onTimeArrivalMap.on('mousemove', function (e) {
     var states = onTimeArrivalMap.queryRenderedFeatures(e.point, {
-        layers: ['statedata']
+        layers: ['on-time-arrivals']
     });
 
     if (states.length > 0) {
-        document.getElementById('pd').innerHTML = '<h3><strong>' + states[0].properties.name + '</strong></h3><p><strong><em>' + states[0].properties.density + '</strong> people per square mile</em></p>';
+        document.getElementById('pd').innerHTML = '<h3><strong>' + states[0].properties.name + '</strong></h3><p><strong><em>' + states[0].properties.on_time + '</strong> people per square mile</em></p>';
     } else {
         document.getElementById('pd').innerHTML = '<p>Hover over a state!</p>';
     }

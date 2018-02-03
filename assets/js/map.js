@@ -39,7 +39,7 @@ onTimeArrivalMap.on('mousemove', function (e) {
     });
 
     if (states.length > 0) {
-        document.getElementById('on-time-arrival-feature').innerHTML = '<h3><strong>' + states[0].properties.name + '</strong></h3><p><strong><em>' + states[0].properties.on_time + '</strong> people per square mile</em></p>';
+        document.getElementById('on-time-arrival-feature').innerHTML = '<h3><strong>' + states[0].properties.name + '</strong></h3><p><strong><em>' + states[0].properties.on_time + '</strong> % flights on time</em></p>';
     } else {
         document.getElementById('on-time-arrival-feature').innerHTML = '<p>Hover over a state!</p>';
     }

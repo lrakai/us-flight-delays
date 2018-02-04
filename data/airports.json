@@ -1,0 +1,629 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"id":"1970","name":"Pago Pago International Airport","city":"Pago Pago","country":"American Samoa","faa":"PPG","icao":"NSTU","alt":"32","tz-offset":"-11","dst":"U","tz":"Pacific/Pago_Pago","on_time":87.04,"description":"Pago Pago, TT: Pago Pago International"},"geometry":{"type":"Point","coordinates":[-170.710006714,-14.3310003281]}}
+,
+{"type":"Feature","properties":{"id":"2246","name":"Antonio B. Won Pat International Airport","city":"Agana","country":"Guam","faa":"GUM","icao":"PGUM","alt":"298","tz-offset":"10","dst":"U","tz":"Pacific/Guam","on_time":84.13,"description":"Guam, TT: Guam International"},"geometry":{"type":"Point","coordinates":[144.796005249,13.4834003448]}}
+,
+{"type":"Feature","properties":{"id":"2883","name":"Cyril E. King Airport","city":"St. Thomas","country":"Virgin Islands","faa":"STT","icao":"TIST","alt":"23","tz-offset":"-4","dst":"U","tz":"America/St_Thomas","on_time":75.79,"description":"Charlotte Amalie, VI: Cyril E King"},"geometry":{"type":"Point","coordinates":[-64.97339630126953,18.337299346923828]}}
+,
+{"type":"Feature","properties":{"id":"2884","name":"Henry E Rohlsen Airport","city":"St. Croix Island","country":"Virgin Islands","faa":"STX","icao":"TISX","alt":"74","tz-offset":"-4","dst":"U","tz":"America/St_Thomas","on_time":75.18,"description":"Christiansted, VI: Henry E. Rohlsen"},"geometry":{"type":"Point","coordinates":[-64.79859924316406,17.701900482177734]}}
+,
+{"type":"Feature","properties":{"id":"2885","name":"Rafael Hernandez Airport","city":"Aguadilla","country":"Puerto Rico","faa":"BQN","icao":"TJBQ","alt":"237","tz-offset":"-4","dst":"U","tz":"America/Puerto_Rico","on_time":59.77,"description":"Aguadilla, PR: Rafael Hernandez"},"geometry":{"type":"Point","coordinates":[-67.12940216064453,18.49489974975586]}}
+,
+{"type":"Feature","properties":{"id":"2889","name":"Mercedita Airport","city":"Ponce","country":"Puerto Rico","faa":"PSE","icao":"TJPS","alt":"29","tz-offset":"-4","dst":"U","tz":"America/Puerto_Rico","on_time":58.69,"description":"Ponce, PR: Mercedita"},"geometry":{"type":"Point","coordinates":[-66.56300354003906,18.00830078125]}}
+,
+{"type":"Feature","properties":{"id":"2890","name":"Luis Munoz Marin International Airport","city":"San Juan","country":"Puerto Rico","faa":"SJU","icao":"TJSJ","alt":"9","tz-offset":"-4","dst":"U","tz":"America/Puerto_Rico","on_time":74.7,"description":"San Juan, PR: Luis Munoz Marin International"},"geometry":{"type":"Point","coordinates":[-66.0018005371,18.4393997192]}}
+,
+{"type":"Feature","properties":{"id":"3415","name":"Hilo International Airport","city":"Hilo","country":"United States","faa":"ITO","icao":"PHTO","alt":"38","tz-offset":"-10","dst":"N","tz":"Pacific/Honolulu","on_time":90.92,"description":"Hilo, HI: Hilo International"},"geometry":{"type":"Point","coordinates":[-155.04800415039062,19.721399307250977]}}
+,
+{"type":"Feature","properties":{"id":"3437","name":"Fort Smith Regional Airport","city":"Fort Smith","country":"United States","faa":"FSM","icao":"KFSM","alt":"469","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":81.44,"description":"Fort Smith, AR: Fort Smith Regional"},"geometry":{"type":"Point","coordinates":[-94.36740112304688,35.33660125732422]}}
+,
+{"type":"Feature","properties":{"id":"3442","name":"Grand Forks International Airport","city":"Grand Forks","country":"United States","faa":"GFK","icao":"KGFK","alt":"845","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":87.33,"description":"Grand Forks, ND: Grand Forks International"},"geometry":{"type":"Point","coordinates":[-97.176102,47.949299]}}
+,
+{"type":"Feature","properties":{"id":"3447","name":"Trenton Mercer Airport","city":"Trenton","country":"United States","faa":"TTN","icao":"KTTN","alt":"213","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":76.45,"description":"Trenton, NJ: Trenton Mercer"},"geometry":{"type":"Point","coordinates":[-74.8134994506836,40.27669906616211]}}
+,
+{"type":"Feature","properties":{"id":"3448","name":"General Edward Lawrence Logan International Airport","city":"Boston","country":"United States","faa":"BOS","icao":"KBOS","alt":"20","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":74.23,"description":"Boston, MA: Logan International"},"geometry":{"type":"Point","coordinates":[-71.00520325,42.36429977]}}
+,
+{"type":"Feature","properties":{"id":"3453","name":"Metropolitan Oakland International Airport","city":"Oakland","country":"United States","faa":"OAK","icao":"KOAK","alt":"9","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":78.15,"description":"Oakland, CA: Metropolitan Oakland International"},"geometry":{"type":"Point","coordinates":[-122.22100067138672,37.72129821777344]}}
+,
+{"type":"Feature","properties":{"id":"3454","name":"Eppley Airfield","city":"Omaha","country":"United States","faa":"OMA","icao":"KOMA","alt":"984","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":81.23,"description":"Omaha, NE: Eppley Airfield"},"geometry":{"type":"Point","coordinates":[-95.89409637451172,41.303199768066406]}}
+,
+{"type":"Feature","properties":{"id":"3456","name":"Kahului Airport","city":"Kahului","country":"United States","faa":"OGG","icao":"PHOG","alt":"54","tz-offset":"-10","dst":"N","tz":"Pacific/Honolulu","on_time":87.11,"description":"Kahului, HI: Kahului Airport"},"geometry":{"type":"Point","coordinates":[-156.42999267578125,20.89859962463379]}}
+,
+{"type":"Feature","properties":{"id":"3457","name":"Wichita Mid Continent Airport","city":"Wichita","country":"United States","faa":"ICT","icao":"KICT","alt":"1333","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":81.26,"description":"Wichita, KS: Wichita Dwight D Eisenhower National"},"geometry":{"type":"Point","coordinates":[-97.43309783935547,37.649898529052734]}}
+,
+{"type":"Feature","properties":{"id":"3458","name":"Kansas City International Airport","city":"Kansas City","country":"United States","faa":"MCI","icao":"KMCI","alt":"1026","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":82.1,"description":"Kansas City, MO: Kansas City International"},"geometry":{"type":"Point","coordinates":[-94.713898,39.2976]}}
+,
+{"type":"Feature","properties":{"id":"3459","name":"Dane County Regional Truax Field","city":"Madison","country":"United States","faa":"MSN","icao":"KMSN","alt":"887","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":81.94,"description":"Madison, WI: Dane County Regional-Truax Field"},"geometry":{"type":"Point","coordinates":[-89.3375015258789,43.13990020751953]}}
+,
+{"type":"Feature","properties":{"id":"3460","name":"Dillingham Airport","city":"Dillingham","country":"United States","faa":"DLG","icao":"PADL","alt":"81","tz-offset":"-9","dst":"A","tz":"America/Anchorage","on_time":92.86,"description":"Dillingham, AK: Dillingham Airport"},"geometry":{"type":"Point","coordinates":[-158.5050049,59.04470062]}}
+,
+{"type":"Feature","properties":{"id":"3462","name":"Phoenix Sky Harbor International Airport","city":"Phoenix","country":"United States","faa":"PHX","icao":"KPHX","alt":"1135","tz-offset":"-7","dst":"N","tz":"America/Phoenix","on_time":82.92,"description":"Phoenix, AZ: Phoenix Sky Harbor International"},"geometry":{"type":"Point","coordinates":[-112.01200103759766,33.43429946899414]}}
+,
+{"type":"Feature","properties":{"id":"3463","name":"Bangor International Airport","city":"Bangor","country":"United States","faa":"BGR","icao":"KBGR","alt":"192","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":76.92,"description":"Bangor, ME: Bangor International"},"geometry":{"type":"Point","coordinates":[-68.8281021118164,44.80739974975586]}}
+,
+{"type":"Feature","properties":{"id":"3465","name":"East Texas Regional Airport","city":"Longview","country":"United States","faa":"GGG","icao":"KGGG","alt":"365","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":25,"description":"Longview, TX: East Texas Regional"},"geometry":{"type":"Point","coordinates":[-94.71150207519531,32.38399887084961]}}
+,
+{"type":"Feature","properties":{"id":"3467","name":"Spokane International Airport","city":"Spokane","country":"United States","faa":"GEG","icao":"KGEG","alt":"2376","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":81.7,"description":"Spokane, WA: Spokane International"},"geometry":{"type":"Point","coordinates":[-117.53399658203125,47.61989974975586]}}
+,
+{"type":"Feature","properties":{"id":"3469","name":"San Francisco International Airport","city":"San Francisco","country":"United States","faa":"SFO","icao":"KSFO","alt":"13","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":68.18,"description":"San Francisco, CA: San Francisco International"},"geometry":{"type":"Point","coordinates":[-122.375,37.61899948120117]}}
+,
+{"type":"Feature","properties":{"id":"3472","name":"Gainesville Regional Airport","city":"Gainesville","country":"United States","faa":"GNV","icao":"KGNV","alt":"152","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":79.86,"description":"Gainesville, FL: Gainesville Regional"},"geometry":{"type":"Point","coordinates":[-82.2717971802,29.6900997162]}}
+,
+{"type":"Feature","properties":{"id":"3473","name":"Memphis International Airport","city":"Memphis","country":"United States","faa":"MEM","icao":"KMEM","alt":"341","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":80.7,"description":"Memphis, TN: Memphis International"},"geometry":{"type":"Point","coordinates":[-89.97669982910156,35.04240036010742]}}
+,
+{"type":"Feature","properties":{"id":"3484","name":"Los Angeles International Airport","city":"Los Angeles","country":"United States","faa":"LAX","icao":"KLAX","alt":"125","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":73.63,"description":"Los Angeles, CA: Los Angeles International"},"geometry":{"type":"Point","coordinates":[-118.4079971,33.94250107]}}
+,
+{"type":"Feature","properties":{"id":"3486","name":"Cleveland Hopkins International Airport","city":"Cleveland","country":"United States","faa":"CLE","icao":"KCLE","alt":"791","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":80.8,"description":"Cleveland, OH: Cleveland-Hopkins International"},"geometry":{"type":"Point","coordinates":[-81.8498001099,41.4117012024]}}
+,
+{"type":"Feature","properties":{"id":"3488","name":"Cincinnati Northern Kentucky International Airport","city":"Cincinnati","country":"United States","faa":"CVG","icao":"KCVG","alt":"896","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":82.3,"description":"Cincinnati, OH: Cincinnati/Northern Kentucky International"},"geometry":{"type":"Point","coordinates":[-84.6678009033,39.0488014221]}}
+,
+{"type":"Feature","properties":{"id":"3492","name":"Juneau International Airport","city":"Juneau","country":"United States","faa":"JNU","icao":"PAJN","alt":"21","tz-offset":"-9","dst":"A","tz":"America/Anchorage","on_time":86.87,"description":"Juneau, AK: Juneau International"},"geometry":{"type":"Point","coordinates":[-134.5760040283203,58.35499954223633]}}
+,
+{"type":"Feature","properties":{"id":"3493","name":"Lafayette Regional Airport","city":"Lafayette","country":"United States","faa":"LFT","icao":"KLFT","alt":"42","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":82.6,"description":"Lafayette, LA: Lafayette Regional Paul Fournet Field"},"geometry":{"type":"Point","coordinates":[-91.98760223,30.20529938]}}
+,
+{"type":"Feature","properties":{"id":"3494","name":"Newark Liberty International Airport","city":"Newark","country":"United States","faa":"EWR","icao":"KEWR","alt":"18","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":67.67,"description":"Newark, NJ: Newark Liberty International"},"geometry":{"type":"Point","coordinates":[-74.168701171875,40.692501068115234]}}
+,
+{"type":"Feature","properties":{"id":"3495","name":"Boise Air Terminal/Gowen field","city":"Boise","country":"United States","faa":"BOI","icao":"KBOI","alt":"2871","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":82.41,"description":"Boise, ID: Boise Air Terminal"},"geometry":{"type":"Point","coordinates":[-116.2229996,43.56439972]}}
+,
+{"type":"Feature","properties":{"id":"3497","name":"Garden City Regional Airport","city":"Garden City","country":"United States","faa":"GCK","icao":"KGCK","alt":"2891","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":86.02,"description":"Garden City, KS: Garden City Regional"},"geometry":{"type":"Point","coordinates":[-100.723999023,37.9275016785]}}
+,
+{"type":"Feature","properties":{"id":"3498","name":"Minot International Airport","city":"Minot","country":"United States","faa":"MOT","icao":"KMOT","alt":"1716","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":84.9,"description":"Minot, ND: Minot International"},"geometry":{"type":"Point","coordinates":[-101.27999877929688,48.2593994140625]}}
+,
+{"type":"Feature","properties":{"id":"3502","name":"Dallas Love Field","city":"Dallas","country":"United States","faa":"DAL","icao":"KDAL","alt":"487","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":79.18,"description":"Dallas, TX: Dallas Love Field"},"geometry":{"type":"Point","coordinates":[-96.85179901123047,32.84709930419922]}}
+,
+{"type":"Feature","properties":{"id":"3504","name":"Helena Regional Airport","city":"Helena","country":"United States","faa":"HLN","icao":"KHLN","alt":"3877","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":89.24,"description":"Helena, MT: Helena Regional"},"geometry":{"type":"Point","coordinates":[-111.98300170898438,46.6068000793457]}}
+,
+{"type":"Feature","properties":{"id":"3513","name":"Lake Charles Regional Airport","city":"Lake Charles","country":"United States","faa":"LCH","icao":"KLCH","alt":"15","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":84.04,"description":"Lake Charles, LA: Lake Charles Regional"},"geometry":{"type":"Point","coordinates":[-93.22329711914062,30.126100540161133]}}
+,
+{"type":"Feature","properties":{"id":"3514","name":"Kona International At Keahole Airport","city":"Kona","country":"United States","faa":"KOA","icao":"PHKO","alt":"47","tz-offset":"-10","dst":"N","tz":"Pacific/Honolulu","on_time":88.78,"description":"Kona, HI: Kona International Airport at Keahole"},"geometry":{"type":"Point","coordinates":[-156.04600524902344,19.738800048828125]}}
+,
+{"type":"Feature","properties":{"id":"3515","name":"Myrtle Beach International Airport","city":"Myrtle Beach","country":"United States","faa":"MYR","icao":"KMYR","alt":"25","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":84.03,"description":"Myrtle Beach, SC: Myrtle Beach International"},"geometry":{"type":"Point","coordinates":[-78.9282989502,33.6796989441]}}
+,
+{"type":"Feature","properties":{"id":"3517","name":"Nantucket Memorial Airport","city":"Nantucket","country":"United States","faa":"ACK","icao":"KACK","alt":"47","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":74.89,"description":"Nantucket, MA: Nantucket Memorial"},"geometry":{"type":"Point","coordinates":[-70.06020355,41.25310135]}}
+,
+{"type":"Feature","properties":{"id":"3520","name":"Ronald Reagan Washington National Airport","city":"Washington","country":"United States","faa":"DCA","icao":"KDCA","alt":"15","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":79.73,"description":"Washington, DC: Ronald Reagan Washington National"},"geometry":{"type":"Point","coordinates":[-77.037697,38.8521]}}
+,
+{"type":"Feature","properties":{"id":"3524","name":"Atlantic City International Airport","city":"Atlantic City","country":"United States","faa":"ACY","icao":"KACY","alt":"75","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":77.51,"description":"Atlantic City, NJ: Atlantic City International"},"geometry":{"type":"Point","coordinates":[-74.57720184326172,39.45759963989258]}}
+,
+{"type":"Feature","properties":{"id":"3531","name":"Kodiak Airport","city":"Kodiak","country":"United States","faa":"ADQ","icao":"PADQ","alt":"78","tz-offset":"-9","dst":"A","tz":"America/Anchorage","on_time":85.49,"description":"Kodiak, AK: Kodiak Airport"},"geometry":{"type":"Point","coordinates":[-152.4940033,57.75]}}
+,
+{"type":"Feature","properties":{"id":"3533","name":"Fort Lauderdale Hollywood International Airport","city":"Fort Lauderdale","country":"United States","faa":"FLL","icao":"KFLL","alt":"9","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":76.58,"description":"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International"},"geometry":{"type":"Point","coordinates":[-80.15270233154297,26.072599411010742]}}
+,
+{"type":"Feature","properties":{"id":"3535","name":"Falls International Airport","city":"International Falls","country":"United States","faa":"INL","icao":"KINL","alt":"1185","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":92.63,"description":"International Falls, MN: Falls International Einarson Field"},"geometry":{"type":"Point","coordinates":[-93.4030990600586,48.566200256347656]}}
+,
+{"type":"Feature","properties":{"id":"3536","name":"Salt Lake City International Airport","city":"Salt Lake City","country":"United States","faa":"SLC","icao":"KSLC","alt":"4227","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":86.14,"description":"Salt Lake City, UT: Salt Lake City International"},"geometry":{"type":"Point","coordinates":[-111.97799682617188,40.78839874267578]}}
+,
+{"type":"Feature","properties":{"id":"3542","name":"Harrisburg International Airport","city":"Harrisburg","country":"United States","faa":"MDT","icao":"KMDT","alt":"310","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":83.29,"description":"Harrisburg, PA: Harrisburg International"},"geometry":{"type":"Point","coordinates":[-76.7633972168,40.1935005188]}}
+,
+{"type":"Feature","properties":{"id":"3543","name":"Lincoln Airport","city":"Lincoln","country":"United States","faa":"LNK","icao":"KLNK","alt":"1219","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":83.39,"description":"Lincoln, NE: Lincoln Airport"},"geometry":{"type":"Point","coordinates":[-96.75920104980469,40.85100173950195]}}
+,
+{"type":"Feature","properties":{"id":"3544","name":"Capital City Airport","city":"Lansing","country":"United States","faa":"LAN","icao":"KLAN","alt":"861","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":82.48,"description":"Lansing, MI: Capital Region International"},"geometry":{"type":"Point","coordinates":[-84.58740234375,42.77870178222656]}}
+,
+{"type":"Feature","properties":{"id":"3550","name":"George Bush Intercontinental Houston Airport","city":"Houston","country":"United States","faa":"IAH","icao":"KIAH","alt":"97","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":83.44,"description":"Houston, TX: George Bush Intercontinental/Houston"},"geometry":{"type":"Point","coordinates":[-95.34140014648438,29.984399795532227]}}
+,
+{"type":"Feature","properties":{"id":"3558","name":"Meadows Field","city":"Bakersfield","country":"United States","faa":"BFL","icao":"KBFL","alt":"510","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":82.2,"description":"Bakersfield, CA: Meadows Field"},"geometry":{"type":"Point","coordinates":[-119.0569992,35.43360138]}}
+,
+{"type":"Feature","properties":{"id":"3559","name":"El Paso International Airport","city":"El Paso","country":"United States","faa":"ELP","icao":"KELP","alt":"3959","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":78.64,"description":"El Paso, TX: El Paso International"},"geometry":{"type":"Point","coordinates":[-106.3779984,31.80719948]}}
+,
+{"type":"Feature","properties":{"id":"3560","name":"Valley International Airport","city":"Harlingen","country":"United States","faa":"HRL","icao":"KHRL","alt":"36","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":77.11,"description":"Harlingen/San Benito, TX: Valley International"},"geometry":{"type":"Point","coordinates":[-97.65440368652344,26.228500366210938]}}
+,
+{"type":"Feature","properties":{"id":"3561","name":"Columbia Metropolitan Airport","city":"Columbia","country":"United States","faa":"CAE","icao":"KCAE","alt":"236","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":79.57,"description":"Columbia, SC: Columbia Metropolitan"},"geometry":{"type":"Point","coordinates":[-81.11949920654297,33.93880081176758]}}
+,
+{"type":"Feature","properties":{"id":"3564","name":"Pensacola Regional Airport","city":"Pensacola","country":"United States","faa":"PNS","icao":"KPNS","alt":"121","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":81.99,"description":"Pensacola, FL: Pensacola International"},"geometry":{"type":"Point","coordinates":[-87.186599731445,30.473400115967]}}
+,
+{"type":"Feature","properties":{"id":"3566","name":"William P Hobby Airport","city":"Houston","country":"United States","faa":"HOU","icao":"KHOU","alt":"46","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":76.74,"description":"Houston, TX: William P Hobby"},"geometry":{"type":"Point","coordinates":[-95.27890015,29.64539909]}}
+,
+{"type":"Feature","properties":{"id":"3570","name":"Pittsburgh International Airport","city":"Pittsburgh","country":"United States","faa":"PIT","icao":"KPIT","alt":"1203","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":81.24,"description":"Pittsburgh, PA: Pittsburgh International"},"geometry":{"type":"Point","coordinates":[-80.23290253,40.49150085]}}
+,
+{"type":"Feature","properties":{"id":"3571","name":"Wiley Post Will Rogers Memorial Airport","city":"Barrow","country":"United States","faa":"BRW","icao":"PABR","alt":"44","tz-offset":"-9","dst":"A","tz":"America/Anchorage","on_time":85.24,"description":"Barrow, AK: Wiley Post/Will Rogers Memorial"},"geometry":{"type":"Point","coordinates":[-156.766008,71.285402]}}
+,
+{"type":"Feature","properties":{"id":"3576","name":"Miami International Airport","city":"Miami","country":"United States","faa":"MIA","icao":"KMIA","alt":"8","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":78.99,"description":"Miami, FL: Miami International"},"geometry":{"type":"Point","coordinates":[-80.29060363769531,25.79319953918457]}}
+,
+{"type":"Feature","properties":{"id":"3577","name":"Seattle Tacoma International Airport","city":"Seattle","country":"United States","faa":"SEA","icao":"KSEA","alt":"433","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":80.51,"description":"Seattle, WA: Seattle/Tacoma International"},"geometry":{"type":"Point","coordinates":[-122.30899810791016,47.44900131225586]}}
+,
+{"type":"Feature","properties":{"id":"3578","name":"Lovell Field","city":"Chattanooga","country":"United States","faa":"CHA","icao":"KCHA","alt":"683","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":75.4,"description":"Chattanooga, TN: Lovell Field"},"geometry":{"type":"Point","coordinates":[-85.20379638671875,35.035301208496094]}}
+,
+{"type":"Feature","properties":{"id":"3580","name":"Jackson-Medgar Wiley Evers International Airport","city":"Jackson","country":"United States","faa":"JAN","icao":"KJAN","alt":"346","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":83.15,"description":"Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International"},"geometry":{"type":"Point","coordinates":[-90.0758972168,32.3111991882]}}
+,
+{"type":"Feature","properties":{"id":"3582","name":"Long Beach /Daugherty Field/ Airport","city":"Long Beach","country":"United States","faa":"LGB","icao":"KLGB","alt":"60","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":78.89,"description":"Long Beach, CA: Long Beach Airport"},"geometry":{"type":"Point","coordinates":[-118.1520004,33.81769943]}}
+,
+{"type":"Feature","properties":{"id":"3585","name":"Indianapolis International Airport","city":"Indianapolis","country":"United States","faa":"IND","icao":"KIND","alt":"797","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":80.89,"description":"Indianapolis, IN: Indianapolis International"},"geometry":{"type":"Point","coordinates":[-86.294403,39.7173]}}
+,
+{"type":"Feature","properties":{"id":"3589","name":"Westchester County Airport","city":"White Plains","country":"United States","faa":"HPN","icao":"KHPN","alt":"439","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":72.48,"description":"White Plains, NY: Westchester County"},"geometry":{"type":"Point","coordinates":[-73.70760345458984,41.06700134277344]}}
+,
+{"type":"Feature","properties":{"id":"3596","name":"Yuma MCAS/Yuma International Airport","city":"Yuma","country":"United States","faa":"YUM","icao":"KNYL","alt":"213","tz-offset":"-7","dst":"N","tz":"America/Phoenix","on_time":87.04,"description":"Yuma, AZ: Yuma MCAS/Yuma International"},"geometry":{"type":"Point","coordinates":[-114.6060028,32.65660095]}}
+,
+{"type":"Feature","properties":{"id":"3598","name":"Duluth International Airport","city":"Duluth","country":"United States","faa":"DLH","icao":"KDLH","alt":"1428","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":82.71,"description":"Duluth, MN: Duluth International"},"geometry":{"type":"Point","coordinates":[-92.19360351559999,46.8420982361]}}
+,
+{"type":"Feature","properties":{"id":"3599","name":"Bethel Airport","city":"Bethel","country":"United States","faa":"BET","icao":"PABE","alt":"126","tz-offset":"-9","dst":"A","tz":"America/Anchorage","on_time":87.63,"description":"Bethel, AK: Bethel Airport"},"geometry":{"type":"Point","coordinates":[-161.8379974,60.77980042]}}
+,
+{"type":"Feature","properties":{"id":"3602","name":"Lihue Airport","city":"Lihue","country":"United States","faa":"LIH","icao":"PHLI","alt":"153","tz-offset":"-10","dst":"N","tz":"Pacific/Honolulu","on_time":88.5,"description":"Lihue, HI: Lihue Airport"},"geometry":{"type":"Point","coordinates":[-159.33900451660156,21.97599983215332]}}
+,
+{"type":"Feature","properties":{"id":"3608","name":"Richmond International Airport","city":"Richmond","country":"United States","faa":"RIC","icao":"KRIC","alt":"167","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":76.59,"description":"Richmond, VA: Richmond International"},"geometry":{"type":"Point","coordinates":[-77.3197021484375,37.50519943237305]}}
+,
+{"type":"Feature","properties":{"id":"3609","name":"Shreveport Regional Airport","city":"Shreveport","country":"United States","faa":"SHV","icao":"KSHV","alt":"258","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":80.34,"description":"Shreveport, LA: Shreveport Regional"},"geometry":{"type":"Point","coordinates":[-93.82559967041016,32.44660186767578]}}
+,
+{"type":"Feature","properties":{"id":"3610","name":"Merle K (Mudhole) Smith Airport","city":"Cordova","country":"United States","faa":"CDV","icao":"PACV","alt":"54","tz-offset":"-9","dst":"A","tz":"America/Anchorage","on_time":82.23,"description":"Cordova, AK: Merle K Mudhole Smith"},"geometry":{"type":"Point","coordinates":[-145.4779968,60.4917984]}}
+,
+{"type":"Feature","properties":{"id":"3611","name":"Norfolk International Airport","city":"Norfolk","country":"United States","faa":"ORF","icao":"KORF","alt":"26","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":82.02,"description":"Norfolk, VA: Norfolk International"},"geometry":{"type":"Point","coordinates":[-76.20120239257812,36.89459991455078]}}
+,
+{"type":"Feature","properties":{"id":"3612","name":"Southeast Texas Regional Airport","city":"Beaumont","country":"United States","faa":"BPT","icao":"KBPT","alt":"15","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":28.57,"description":"Beaumont/Port Arthur, TX: Jack Brooks Regional"},"geometry":{"type":"Point","coordinates":[-94.02069854736328,29.9507999420166]}}
+,
+{"type":"Feature","properties":{"id":"3613","name":"Savannah Hilton Head International Airport","city":"Savannah","country":"United States","faa":"SAV","icao":"KSAV","alt":"50","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":81.26,"description":"Savannah, GA: Savannah/Hilton Head International"},"geometry":{"type":"Point","coordinates":[-81.20210266,32.12760162]}}
+,
+{"type":"Feature","properties":{"id":"3615","name":"Nome Airport","city":"Nome","country":"United States","faa":"OME","icao":"PAOM","alt":"37","tz-offset":"-9","dst":"A","tz":"America/Anchorage","on_time":85.05,"description":"Nome, AK: Nome Airport"},"geometry":{"type":"Point","coordinates":[-165.44500732421875,64.51219940185547]}}
+,
+{"type":"Feature","properties":{"id":"3620","name":"Deadhorse Airport","city":"Deadhorse","country":"United States","faa":"SCC","icao":"PASC","alt":"65","tz-offset":"-9","dst":"A","tz":"America/Anchorage","on_time":85.44,"description":"Deadhorse, AK: Deadhorse Airport"},"geometry":{"type":"Point","coordinates":[-148.4649963,70.19470215]}}
+,
+{"type":"Feature","properties":{"id":"3621","name":"San Antonio International Airport","city":"San Antonio","country":"United States","faa":"SAT","icao":"KSAT","alt":"809","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":80.35,"description":"San Antonio, TX: San Antonio International"},"geometry":{"type":"Point","coordinates":[-98.46980285644531,29.533700942993164]}}
+,
+{"type":"Feature","properties":{"id":"3622","name":"Greater Rochester International Airport","city":"Rochester","country":"United States","faa":"ROC","icao":"KROC","alt":"559","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":79.18,"description":"Rochester, NY: Greater Rochester International"},"geometry":{"type":"Point","coordinates":[-77.67240142822266,43.118900299072266]}}
+,
+{"type":"Feature","properties":{"id":"3626","name":"Raleigh Durham International Airport","city":"Raleigh-durham","country":"United States","faa":"RDU","icao":"KRDU","alt":"435","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":79.83,"description":"Raleigh/Durham, NC: Raleigh-Durham International"},"geometry":{"type":"Point","coordinates":[-78.7874984741211,35.877601623535156]}}
+,
+{"type":"Feature","properties":{"id":"3627","name":"James M Cox Dayton International Airport","city":"Dayton","country":"United States","faa":"DAY","icao":"KDAY","alt":"1009","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":82.23,"description":"Dayton, OH: James M Cox/Dayton International"},"geometry":{"type":"Point","coordinates":[-84.21939849853516,39.902400970458984]}}
+,
+{"type":"Feature","properties":{"id":"3630","name":"Niagara Falls International Airport","city":"Niagara Falls","country":"United States","faa":"IAG","icao":"KIAG","alt":"589","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":81.7,"description":"Niagara Falls, NY: Niagara Falls International"},"geometry":{"type":"Point","coordinates":[-78.94619750976562,43.1072998046875]}}
+,
+{"type":"Feature","properties":{"id":"3633","name":"Newport News Williamsburg International Airport","city":"Newport News","country":"United States","faa":"PHF","icao":"KPHF","alt":"42","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":83.42,"description":"Newport News/Williamsburg, VA: Newport News/Williamsburg International"},"geometry":{"type":"Point","coordinates":[-76.49299622,37.13190079]}}
+,
+{"type":"Feature","properties":{"id":"3636","name":"Tucson International Airport","city":"Tucson","country":"United States","faa":"TUS","icao":"KTUS","alt":"2643","tz-offset":"-7","dst":"N","tz":"America/Phoenix","on_time":78.68,"description":"Tucson, AZ: Tucson International"},"geometry":{"type":"Point","coordinates":[-110.94100189208984,32.1161003112793]}}
+,
+{"type":"Feature","properties":{"id":"3641","name":"Theodore Francis Green State Airport","city":"Providence","country":"United States","faa":"PVD","icao":"KPVD","alt":"55","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":79.71,"description":"Providence, RI: Theodore Francis Green State"},"geometry":{"type":"Point","coordinates":[-71.42040252685547,41.732601165771484]}}
+,
+{"type":"Feature","properties":{"id":"3644","name":"Bob Hope Airport","city":"Burbank","country":"United States","faa":"BUR","icao":"KBUR","alt":"778","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":78.4,"description":"Burbank, CA: Bob Hope"},"geometry":{"type":"Point","coordinates":[-118.35900115966797,34.20069885253906]}}
+,
+{"type":"Feature","properties":{"id":"3645","name":"Detroit Metropolitan Wayne County Airport","city":"Detroit","country":"United States","faa":"DTW","icao":"KDTW","alt":"645","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":84.95,"description":"Detroit, MI: Detroit Metro Wayne County"},"geometry":{"type":"Point","coordinates":[-83.35340118408203,42.212398529052734]}}
+,
+{"type":"Feature","properties":{"id":"3646","name":"Tampa International Airport","city":"Tampa","country":"United States","faa":"TPA","icao":"KTPA","alt":"26","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":79.85,"description":"Tampa, FL: Tampa International"},"geometry":{"type":"Point","coordinates":[-82.533203125,27.975500106811523]}}
+,
+{"type":"Feature","properties":{"id":"3650","name":"Range Regional Airport","city":"Hibbing","country":"United States","faa":"HIB","icao":"KHIB","alt":"1354","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":91.1,"description":"Hibbing, MN: Range Regional"},"geometry":{"type":"Point","coordinates":[-92.83899689,47.38660049]}}
+,
+{"type":"Feature","properties":{"id":"3652","name":"Midland International Airport","city":"Midland","country":"United States","faa":"MAF","icao":"KMAF","alt":"2871","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":79.5,"description":"Midland/Odessa, TX: Midland International Air and Space Port"},"geometry":{"type":"Point","coordinates":[-102.2020034790039,31.9424991607666]}}
+,
+{"type":"Feature","properties":{"id":"3653","name":"Austin Straubel International Airport","city":"Green Bay","country":"United States","faa":"GRB","icao":"KGRB","alt":"695","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":80,"description":"Green Bay, WI: Green Bay Austin Straubel International"},"geometry":{"type":"Point","coordinates":[-88.12960052490234,44.48509979248047]}}
+,
+{"type":"Feature","properties":{"id":"3658","name":"Augusta Regional At Bush Field","city":"Bush Field","country":"United States","faa":"AGS","icao":"KAGS","alt":"144","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":80.47,"description":"Augusta, GA: Augusta Regional at Bush Field"},"geometry":{"type":"Point","coordinates":[-81.9645004272461,33.36989974975586]}}
+,
+{"type":"Feature","properties":{"id":"3659","name":"Sloulin Field International Airport","city":"Williston","country":"United States","faa":"ISN","icao":"KISN","alt":"1982","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":88.31,"description":"Williston, ND: Sloulin Field International"},"geometry":{"type":"Point","coordinates":[-103.641998291,48.177898407]}}
+,
+{"type":"Feature","properties":{"id":"3660","name":"Bill & Hillary Clinton National Airport/Adams Field","city":"Little Rock","country":"United States","faa":"LIT","icao":"KLIT","alt":"262","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":81.25,"description":"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field"},"geometry":{"type":"Point","coordinates":[-92.2242965698,34.729400634799994]}}
+,
+{"type":"Feature","properties":{"id":"3661","name":"Stewart International Airport","city":"Newburgh","country":"United States","faa":"SWF","icao":"KSWF","alt":"491","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":73.46,"description":"Newburgh/Poughkeepsie, NY: Stewart International"},"geometry":{"type":"Point","coordinates":[-74.10479736328125,41.50410079956055]}}
+,
+{"type":"Feature","properties":{"id":"3670","name":"Dallas Fort Worth International Airport","city":"Dallas-Fort Worth","country":"United States","faa":"DFW","icao":"KDFW","alt":"607","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":82.46,"description":"Dallas/Fort Worth, TX: Dallas/Fort Worth International"},"geometry":{"type":"Point","coordinates":[-97.03800201416016,32.89680099487305]}}
+,
+{"type":"Feature","properties":{"id":"3671","name":"Melbourne International Airport","city":"Melbourne","country":"United States","faa":"MLB","icao":"KMLB","alt":"33","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":84.81,"description":"Melbourne, FL: Melbourne International"},"geometry":{"type":"Point","coordinates":[-80.64530181884766,28.102800369262695]}}
+,
+{"type":"Feature","properties":{"id":"3673","name":"Austin Bergstrom International Airport","city":"Austin","country":"United States","faa":"AUS","icao":"KAUS","alt":"542","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":81.21,"description":"Austin, TX: Austin - Bergstrom International"},"geometry":{"type":"Point","coordinates":[-97.6698989868164,30.194499969482422]}}
+,
+{"type":"Feature","properties":{"id":"3675","name":"Sawyer International Airport","city":"Gwinn","country":"United States","faa":"MQT","icao":"KSAW","alt":"1221","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":83.53,"description":"Marquette, MI: Sawyer International"},"geometry":{"type":"Point","coordinates":[-87.395401001,46.353599548300004]}}
+,
+{"type":"Feature","properties":{"id":"3676","name":"McGhee Tyson Airport","city":"Knoxville","country":"United States","faa":"TYS","icao":"KTYS","alt":"981","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":76.68,"description":"Knoxville, TN: McGhee Tyson"},"geometry":{"type":"Point","coordinates":[-83.9940033,35.81100082]}}
+,
+{"type":"Feature","properties":{"id":"3678","name":"Lambert St Louis International Airport","city":"St. Louis","country":"United States","faa":"STL","icao":"KSTL","alt":"618","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":81.45,"description":"St. Louis, MO: St Louis Lambert International"},"geometry":{"type":"Point","coordinates":[-90.37000274658203,38.74869918823242]}}
+,
+{"type":"Feature","properties":{"id":"3680","name":"Sheppard Air Force Base-Wichita Falls Municipal Airport","city":"Wichita Falls","country":"United States","faa":"SPS","icao":"KSPS","alt":"1019","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":77.74,"description":"Wichita Falls, TX: Sheppard AFB/Wichita Falls Municipal"},"geometry":{"type":"Point","coordinates":[-98.49189758,33.98880005]}}
+,
+{"type":"Feature","properties":{"id":"3682","name":"Hartsfield Jackson Atlanta International Airport","city":"Atlanta","country":"United States","faa":"ATL","icao":"KATL","alt":"1026","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":84.79,"description":"Atlanta, GA: Hartsfield-Jackson Atlanta International"},"geometry":{"type":"Point","coordinates":[-84.4281005859375,33.63669967651367]}}
+,
+{"type":"Feature","properties":{"id":"3685","name":"Gerald R. Ford International Airport","city":"Grand Rapids","country":"United States","faa":"GRR","icao":"KGRR","alt":"794","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":81.2,"description":"Grand Rapids, MI: Gerald R. Ford International"},"geometry":{"type":"Point","coordinates":[-85.52279663,42.88079834]}}
+,
+{"type":"Feature","properties":{"id":"3687","name":"Fresno Yosemite International Airport","city":"Fresno","country":"United States","faa":"FAT","icao":"KFAT","alt":"336","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":81.92,"description":"Fresno, CA: Fresno Yosemite International"},"geometry":{"type":"Point","coordinates":[-119.71800231933594,36.77619934082031]}}
+,
+{"type":"Feature","properties":{"id":"3690","name":"Nashville International Airport","city":"Nashville","country":"United States","faa":"BNA","icao":"KBNA","alt":"599","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":81.3,"description":"Nashville, TN: Nashville International"},"geometry":{"type":"Point","coordinates":[-86.6781997680664,36.1245002746582]}}
+,
+{"type":"Feature","properties":{"id":"3691","name":"Laredo International Airport","city":"Laredo","country":"United States","faa":"LRD","icao":"KLRD","alt":"508","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":82.58,"description":"Laredo, TX: Laredo International"},"geometry":{"type":"Point","coordinates":[-99.46160125732422,27.543800354003906]}}
+,
+{"type":"Feature","properties":{"id":"3693","name":"Ralph Wien Memorial Airport","city":"Kotzebue","country":"United States","faa":"OTZ","icao":"PAOT","alt":"14","tz-offset":"-9","dst":"A","tz":"America/Anchorage","on_time":85.2,"description":"Kotzebue, AK: Ralph Wien Memorial"},"geometry":{"type":"Point","coordinates":[-162.598999,66.88469696]}}
+,
+{"type":"Feature","properties":{"id":"3697","name":"La Guardia Airport","city":"New York","country":"United States","faa":"LGA","icao":"KLGA","alt":"21","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":71.76,"description":"New York, NY: LaGuardia"},"geometry":{"type":"Point","coordinates":[-73.87259674,40.77719879]}}
+,
+{"type":"Feature","properties":{"id":"3698","name":"Tallahassee Regional Airport","city":"Tallahassee","country":"United States","faa":"TLH","icao":"KTLH","alt":"81","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":84.42,"description":"Tallahassee, FL: Tallahassee International"},"geometry":{"type":"Point","coordinates":[-84.35030364990234,30.396499633789062]}}
+,
+{"type":"Feature","properties":{"id":"3700","name":"Waco Regional Airport","city":"Waco","country":"United States","faa":"ACT","icao":"KACT","alt":"516","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":78.11,"description":"Waco, TX: Waco Regional"},"geometry":{"type":"Point","coordinates":[-97.23049926757812,31.611299514770508]}}
+,
+{"type":"Feature","properties":{"id":"3708","name":"San Angelo Regional Mathis Field","city":"San Angelo","country":"United States","faa":"SJT","icao":"KSJT","alt":"1919","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":81.86,"description":"San Angelo, TX: San Angelo Regional/Mathis Field"},"geometry":{"type":"Point","coordinates":[-100.49600219726562,31.35770034790039]}}
+,
+{"type":"Feature","properties":{"id":"3711","name":"Burlington International Airport","city":"Burlington","country":"United States","faa":"BTV","icao":"KBTV","alt":"335","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":75.82,"description":"Burlington, VT: Burlington International"},"geometry":{"type":"Point","coordinates":[-73.15329742429999,44.471900939899996]}}
+,
+{"type":"Feature","properties":{"id":"3712","name":"Jacksonville International Airport","city":"Jacksonville","country":"United States","faa":"JAX","icao":"KJAX","alt":"30","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":79.2,"description":"Jacksonville, FL: Jacksonville International"},"geometry":{"type":"Point","coordinates":[-81.68789672851562,30.49410057067871]}}
+,
+{"type":"Feature","properties":{"id":"3713","name":"Durango La Plata County Airport","city":"Durango","country":"United States","faa":"DRO","icao":"KDRO","alt":"6685","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":85.85,"description":"Durango, CO: Durango La Plata County"},"geometry":{"type":"Point","coordinates":[-107.753997803,37.1515007019]}}
+,
+{"type":"Feature","properties":{"id":"3714","name":"Washington Dulles International Airport","city":"Washington","country":"United States","faa":"IAD","icao":"KIAD","alt":"312","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":83.75,"description":"Washington, DC: Washington Dulles International"},"geometry":{"type":"Point","coordinates":[-77.45580292,38.94449997]}}
+,
+{"type":"Feature","properties":{"id":"3715","name":"Easterwood Field","city":"College Station","country":"United States","faa":"CLL","icao":"KCLL","alt":"320","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":83.24,"description":"College Station/Bryan, TX: Easterwood Field"},"geometry":{"type":"Point","coordinates":[-96.36380005,30.58860016]}}
+,
+{"type":"Feature","properties":{"id":"3717","name":"General Mitchell International Airport","city":"Milwaukee","country":"United States","faa":"MKE","icao":"KMKE","alt":"723","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":80.58,"description":"Milwaukee, WI: General Mitchell International"},"geometry":{"type":"Point","coordinates":[-87.89659881591797,42.947200775146484]}}
+,
+{"type":"Feature","properties":{"id":"3718","name":"Abilene Regional Airport","city":"Abilene","country":"United States","faa":"ABI","icao":"KABI","alt":"1791","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":70.73,"description":"Abilene, TX: Abilene Regional"},"geometry":{"type":"Point","coordinates":[-99.68190002440001,32.4113006592]}}
+,
+{"type":"Feature","properties":{"id":"3719","name":"Columbia Regional Airport","city":"Columbia","country":"United States","faa":"COU","icao":"KCOU","alt":"889","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":75.1,"description":"Columbia, MO: Columbia Regional"},"geometry":{"type":"Point","coordinates":[-92.21959686279297,38.81809997558594]}}
+,
+{"type":"Feature","properties":{"id":"3720","name":"Portland International Airport","city":"Portland","country":"United States","faa":"PDX","icao":"KPDX","alt":"31","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":80.99,"description":"Portland, OR: Portland International"},"geometry":{"type":"Point","coordinates":[-122.5979996,45.58869934]}}
+,
+{"type":"Feature","properties":{"id":"3722","name":"Palm Beach International Airport","city":"West Palm Beach","country":"United States","faa":"PBI","icao":"KPBI","alt":"19","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":77.04,"description":"West Palm Beach/Palm Beach, FL: Palm Beach International"},"geometry":{"type":"Point","coordinates":[-80.09559631347656,26.68320083618164]}}
+,
+{"type":"Feature","properties":{"id":"3728","name":"Honolulu International Airport","city":"Honolulu","country":"United States","faa":"HNL","icao":"PHNL","alt":"13","tz-offset":"-10","dst":"N","tz":"Pacific/Honolulu","on_time":86.7,"description":"Honolulu, HI: Daniel K Inouye International"},"geometry":{"type":"Point","coordinates":[-157.9219970703125,21.318700790405273]}}
+,
+{"type":"Feature","properties":{"id":"3729","name":"Des Moines International Airport","city":"Des Moines","country":"United States","faa":"DSM","icao":"KDSM","alt":"958","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":82.22,"description":"Des Moines, IA: Des Moines International"},"geometry":{"type":"Point","coordinates":[-93.66310119628906,41.534000396728516]}}
+,
+{"type":"Feature","properties":{"id":"3730","name":"Coastal Carolina Regional Airport","city":"New Bern","country":"United States","faa":"EWN","icao":"KEWN","alt":"18","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":81.8,"description":"New Bern/Morehead/Beaufort, NC: Coastal Carolina Regional"},"geometry":{"type":"Point","coordinates":[-77.04290008539999,35.0730018616]}}
+,
+{"type":"Feature","properties":{"id":"3731","name":"San Diego International Airport","city":"San Diego","country":"United States","faa":"SAN","icao":"KSAN","alt":"17","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":79.7,"description":"San Diego, CA: San Diego International"},"geometry":{"type":"Point","coordinates":[-117.190002441,32.7336006165]}}
+,
+{"type":"Feature","properties":{"id":"3732","name":"Monroe Regional Airport","city":"Monroe","country":"United States","faa":"MLU","icao":"KMLU","alt":"79","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":81.79,"description":"Monroe, LA: Monroe Regional"},"geometry":{"type":"Point","coordinates":[-92.0376968383789,32.51089859008789]}}
+,
+{"type":"Feature","properties":{"id":"3734","name":"Ontario International Airport","city":"Ontario","country":"United States","faa":"ONT","icao":"KONT","alt":"944","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":78.09,"description":"Ontario, CA: Ontario International"},"geometry":{"type":"Point","coordinates":[-117.60099792480469,34.055999755859375]}}
+,
+{"type":"Feature","properties":{"id":"3736","name":"Roswell International Air Center Airport","city":"Roswell","country":"United States","faa":"ROW","icao":"KROW","alt":"3671","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":91.48,"description":"Roswell, NM: Roswell International Air Center"},"geometry":{"type":"Point","coordinates":[-104.53099822998047,33.30160140991211]}}
+,
+{"type":"Feature","properties":{"id":"3738","name":"Brownsville South Padre Island International Airport","city":"Brownsville","country":"United States","faa":"BRO","icao":"KBRO","alt":"22","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":86.16,"description":"Brownsville, TX: Brownsville South Padre Island International"},"geometry":{"type":"Point","coordinates":[-97.4259033203125,25.90679931640625]}}
+,
+{"type":"Feature","properties":{"id":"3739","name":"Dothan Regional Airport","city":"Dothan","country":"United States","faa":"DHN","icao":"KDHN","alt":"401","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":79.73,"description":"Dothan, AL: Dothan Regional"},"geometry":{"type":"Point","coordinates":[-85.44960021972656,31.321300506591797]}}
+,
+{"type":"Feature","properties":{"id":"3744","name":"Corpus Christi International Airport","city":"Corpus Christi","country":"United States","faa":"CRP","icao":"KCRP","alt":"44","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":78.27,"description":"Corpus Christi, TX: Corpus Christi International"},"geometry":{"type":"Point","coordinates":[-97.5011978149414,27.77039909362793]}}
+,
+{"type":"Feature","properties":{"id":"3745","name":"Syracuse Hancock International Airport","city":"Syracuse","country":"United States","faa":"SYR","icao":"KSYR","alt":"421","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":77.46,"description":"Syracuse, NY: Syracuse Hancock International"},"geometry":{"type":"Point","coordinates":[-76.1063003540039,43.11119842529297]}}
+,
+{"type":"Feature","properties":{"id":"3747","name":"Chicago Midway International Airport","city":"Chicago","country":"United States","faa":"MDW","icao":"KMDW","alt":"620","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":82.22,"description":"Chicago, IL: Chicago Midway International"},"geometry":{"type":"Point","coordinates":[-87.75240325927734,41.7859992980957]}}
+,
+{"type":"Feature","properties":{"id":"3748","name":"Norman Y. Mineta San Jose International Airport","city":"San Jose","country":"United States","faa":"SJC","icao":"KSJC","alt":"62","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":80.37,"description":"San Jose, CA: Norman Y. Mineta San Jose International"},"geometry":{"type":"Point","coordinates":[-121.92900085449219,37.36259841918945]}}
+,
+{"type":"Feature","properties":{"id":"3749","name":"Lea County Regional Airport","city":"Hobbs","country":"United States","faa":"HOB","icao":"KHOB","alt":"3661","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":85.29,"description":"Hobbs, NM: Lea County Regional"},"geometry":{"type":"Point","coordinates":[-103.2170029,32.6875]}}
+,
+{"type":"Feature","properties":{"id":"3751","name":"Denver International Airport","city":"Denver","country":"United States","faa":"DEN","icao":"KDEN","alt":"5431","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":83.64,"description":"Denver, CO: Denver International"},"geometry":{"type":"Point","coordinates":[-104.672996521,39.861698150635]}}
+,
+{"type":"Feature","properties":{"id":"3752","name":"Philadelphia International Airport","city":"Philadelphia","country":"United States","faa":"PHL","icao":"KPHL","alt":"36","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":78.95,"description":"Philadelphia, PA: Philadelphia International"},"geometry":{"type":"Point","coordinates":[-75.24109649658203,39.87189865112305]}}
+,
+{"type":"Feature","properties":{"id":"3753","name":"Sioux Gateway Col. Bud Day Field","city":"Sioux City","country":"United States","faa":"SUX","icao":"KSUX","alt":"1098","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":71.43,"description":"Sioux City, IA: Sioux Gateway/Col. Bud Day Field"},"geometry":{"type":"Point","coordinates":[-96.38439941,42.40259933]}}
+,
+{"type":"Feature","properties":{"id":"3759","name":"Port Columbus International Airport","city":"Columbus","country":"United States","faa":"CMH","icao":"KCMH","alt":"815","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":81.58,"description":"Columbus, OH: John Glenn Columbus International"},"geometry":{"type":"Point","coordinates":[-82.89189910888672,39.99800109863281]}}
+,
+{"type":"Feature","properties":{"id":"3770","name":"Texarkana Regional Webb Field","city":"Texarkana","country":"United States","faa":"TXK","icao":"KTXK","alt":"390","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":73.33,"description":"Texarkana, AR: Texarkana Regional-Webb Field"},"geometry":{"type":"Point","coordinates":[-93.99099731445312,33.45370101928711]}}
+,
+{"type":"Feature","properties":{"id":"3771","name":"Plattsburgh International Airport","city":"Plattsburgh","country":"United States","faa":"PBG","icao":"KPBG","alt":"234","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":80.37,"description":"Plattsburgh, NY: Plattsburgh International"},"geometry":{"type":"Point","coordinates":[-73.46810150146484,44.650901794433594]}}
+,
+{"type":"Feature","properties":{"id":"3774","name":"Ted Stevens Anchorage International Airport","city":"Anchorage","country":"United States","faa":"ANC","icao":"PANC","alt":"152","tz-offset":"-9","dst":"A","tz":"America/Anchorage","on_time":85.25,"description":"Anchorage, AK: Ted Stevens Anchorage International"},"geometry":{"type":"Point","coordinates":[-149.99600219726562,61.174400329589844]}}
+,
+{"type":"Feature","properties":{"id":"3775","name":"Robert Gray  Army Air Field Airport","city":"Killeen","country":"United States","faa":"GRK","icao":"KGRK","alt":"1015","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":78.56,"description":"Killeen, TX: Robert Gray AAF"},"geometry":{"type":"Point","coordinates":[-97.82890319820001,31.067199707]}}
+,
+{"type":"Feature","properties":{"id":"3777","name":"Bellingham International Airport","city":"Bellingham","country":"United States","faa":"BLI","icao":"KBLI","alt":"170","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":77.27,"description":"Bellingham, WA: Bellingham International"},"geometry":{"type":"Point","coordinates":[-122.53800201416016,48.79280090332031]}}
+,
+{"type":"Feature","properties":{"id":"3782","name":"Mobile Regional Airport","city":"Mobile","country":"United States","faa":"MOB","icao":"KMOB","alt":"219","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":81.44,"description":"Mobile, AL: Mobile Regional"},"geometry":{"type":"Point","coordinates":[-88.242797851562,30.691200256348]}}
+,
+{"type":"Feature","properties":{"id":"3784","name":"Santa Fe Municipal Airport","city":"Santa Fe","country":"United States","faa":"SAF","icao":"KSAF","alt":"6348","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":81.96,"description":"Santa Fe, NM: Santa Fe Municipal"},"geometry":{"type":"Point","coordinates":[-106.088996887,35.617099762]}}
+,
+{"type":"Feature","properties":{"id":"3793","name":"Southwest Florida International Airport","city":"Fort Myers","country":"United States","faa":"RSW","icao":"KRSW","alt":"30","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":81.6,"description":"Fort Myers, FL: Southwest Florida International"},"geometry":{"type":"Point","coordinates":[-81.75520324707031,26.53619956970215]}}
+,
+{"type":"Feature","properties":{"id":"3794","name":"King Salmon Airport","city":"King Salmon","country":"United States","faa":"AKN","icao":"PAKN","alt":"73","tz-offset":"-9","dst":"A","tz":"America/Anchorage","on_time":95.24,"description":"King Salmon, AK: King Salmon Airport"},"geometry":{"type":"Point","coordinates":[-156.6490021,58.67679977]}}
+,
+{"type":"Feature","properties":{"id":"3797","name":"John F Kennedy International Airport","city":"New York","country":"United States","faa":"JFK","icao":"KJFK","alt":"13","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":72.31,"description":"New York, NY: John F. Kennedy International"},"geometry":{"type":"Point","coordinates":[-73.77890015,40.63980103]}}
+,
+{"type":"Feature","properties":{"id":"3806","name":"Charleston Air Force Base-International Airport","city":"Charleston","country":"United States","faa":"CHS","icao":"KCHS","alt":"46","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":81.47,"description":"Charleston, SC: Charleston AFB/International"},"geometry":{"type":"Point","coordinates":[-80.04049683,32.89860153]}}
+,
+{"type":"Feature","properties":{"id":"3807","name":"Reno Tahoe International Airport","city":"Reno","country":"United States","faa":"RNO","icao":"KRNO","alt":"4415","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":78.06,"description":"Reno, NV: Reno/Tahoe International"},"geometry":{"type":"Point","coordinates":[-119.76799774169922,39.49909973144531]}}
+,
+{"type":"Feature","properties":{"id":"3808","name":"Ketchikan International Airport","city":"Ketchikan","country":"United States","faa":"KTN","icao":"PAKT","alt":"89","tz-offset":"-9","dst":"A","tz":"America/Anchorage","on_time":83.83,"description":"Ketchikan, AK: Ketchikan International"},"geometry":{"type":"Point","coordinates":[-131.7140045,55.35559845]}}
+,
+{"type":"Feature","properties":{"id":"3811","name":"Birmingham-Shuttlesworth International Airport","city":"Birmingham","country":"United States","faa":"BHM","icao":"KBHM","alt":"650","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":80.53,"description":"Birmingham, AL: Birmingham-Shuttlesworth International"},"geometry":{"type":"Point","coordinates":[-86.75350189,33.56290054]}}
+,
+{"type":"Feature","properties":{"id":"3817","name":"Sacramento International Airport","city":"Sacramento","country":"United States","faa":"SMF","icao":"KSMF","alt":"27","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":79.09,"description":"Sacramento, CA: Sacramento International"},"geometry":{"type":"Point","coordinates":[-121.59100341796875,38.69540023803711]}}
+,
+{"type":"Feature","properties":{"id":"3819","name":"City of Colorado Springs Municipal Airport","city":"Colorado Springs","country":"United States","faa":"COS","icao":"KCOS","alt":"6187","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":78.22,"description":"Colorado Springs, CO: City of Colorado Springs Municipal"},"geometry":{"type":"Point","coordinates":[-104.70099639893,38.805801391602]}}
+,
+{"type":"Feature","properties":{"id":"3820","name":"Buffalo Niagara International Airport","city":"Buffalo","country":"United States","faa":"BUF","icao":"KBUF","alt":"728","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":79.19,"description":"Buffalo, NY: Buffalo Niagara International"},"geometry":{"type":"Point","coordinates":[-78.73220062,42.94049835]}}
+,
+{"type":"Feature","properties":{"id":"3824","name":"Cedar City Regional Airport","city":"Cedar City","country":"United States","faa":"CDC","icao":"KCDC","alt":"5622","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":82.34,"description":"Cedar City, UT: Cedar City Regional"},"geometry":{"type":"Point","coordinates":[-113.0989990234375,37.70100021362305]}}
+,
+{"type":"Feature","properties":{"id":"3825","name":"Bradley International Airport","city":"Windsor Locks","country":"United States","faa":"BDL","icao":"KBDL","alt":"173","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":79.51,"description":"Hartford, CT: Bradley International"},"geometry":{"type":"Point","coordinates":[-72.68319702149999,41.9388999939]}}
+,
+{"type":"Feature","properties":{"id":"3826","name":"Mc Allen Miller International Airport","city":"Mcallen","country":"United States","faa":"MFE","icao":"KMFE","alt":"107","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":82.23,"description":"Mission/McAllen/Edinburg, TX: McAllen Miller International"},"geometry":{"type":"Point","coordinates":[-98.23860168,26.17580032]}}
+,
+{"type":"Feature","properties":{"id":"3829","name":"Lubbock Preston Smith International Airport","city":"Lubbock","country":"United States","faa":"LBB","icao":"KLBB","alt":"3282","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":79.43,"description":"Lubbock, TX: Lubbock Preston Smith International"},"geometry":{"type":"Point","coordinates":[-101.822998046875,33.66360092163086]}}
+,
+{"type":"Feature","properties":{"id":"3830","name":"Chicago O'Hare International Airport","city":"Chicago","country":"United States","faa":"ORD","icao":"KORD","alt":"672","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":80.97,"description":"Chicago, IL: Chicago O'Hare International"},"geometry":{"type":"Point","coordinates":[-87.90480042,41.97859955]}}
+,
+{"type":"Feature","properties":{"id":"3832","name":"Fairbanks International Airport","city":"Fairbanks","country":"United States","faa":"FAI","icao":"PAFA","alt":"439","tz-offset":"-9","dst":"A","tz":"America/Anchorage","on_time":86.71,"description":"Fairbanks, AK: Fairbanks International"},"geometry":{"type":"Point","coordinates":[-147.8560028,64.81510162]}}
+,
+{"type":"Feature","properties":{"id":"3839","name":"Palm Springs International Airport","city":"Palm Springs","country":"United States","faa":"PSP","icao":"KPSP","alt":"477","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":78.86,"description":"Palm Springs, CA: Palm Springs International"},"geometry":{"type":"Point","coordinates":[-116.50700378417969,33.8297004699707]}}
+,
+{"type":"Feature","properties":{"id":"3840","name":"Rick Husband Amarillo International Airport","city":"Amarillo","country":"United States","faa":"AMA","icao":"KAMA","alt":"3607","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":81.83,"description":"Amarillo, TX: Rick Husband Amarillo International"},"geometry":{"type":"Point","coordinates":[-101.70600128173828,35.219398498535156]}}
+,
+{"type":"Feature","properties":{"id":"3845","name":"Wilmington International Airport","city":"Wilmington","country":"United States","faa":"ILM","icao":"KILM","alt":"32","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":82.29,"description":"Wilmington, NC: Wilmington International"},"geometry":{"type":"Point","coordinates":[-77.90260314941406,34.270599365234375]}}
+,
+{"type":"Feature","properties":{"id":"3846","name":"Baton Rouge Metropolitan, Ryan Field","city":"Baton Rouge","country":"United States","faa":"BTR","icao":"KBTR","alt":"70","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":77.97,"description":"Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field"},"geometry":{"type":"Point","coordinates":[-91.14959717,30.53319931]}}
+,
+{"type":"Feature","properties":{"id":"3848","name":"Tyler Pounds Regional Airport","city":"Tyler","country":"United States","faa":"TYR","icao":"KTYR","alt":"544","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":71.93,"description":"Tyler, TX: Tyler Pounds Regional"},"geometry":{"type":"Point","coordinates":[-95.40239715576172,32.35409927368164]}}
+,
+{"type":"Feature","properties":{"id":"3849","name":"Baltimore/Washington International Thurgood Marshall Airport","city":"Baltimore","country":"United States","faa":"BWI","icao":"KBWI","alt":"146","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":82.24,"description":"Baltimore, MD: Baltimore/Washington International Thurgood Marshall"},"geometry":{"type":"Point","coordinates":[-76.66829681,39.17539978]}}
+,
+{"type":"Feature","properties":{"id":"3852","name":"Alexandria International Airport","city":"Alexandria","country":"United States","faa":"AEX","icao":"KAEX","alt":"89","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":82.23,"description":"Alexandria, LA: Alexandria International"},"geometry":{"type":"Point","coordinates":[-92.54979705810547,31.32740020751953]}}
+,
+{"type":"Feature","properties":{"id":"3855","name":"Tulsa International Airport","city":"Tulsa","country":"United States","faa":"TUL","icao":"KTUL","alt":"677","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":81.12,"description":"Tulsa, OK: Tulsa International"},"geometry":{"type":"Point","coordinates":[-95.88809967041016,36.19839859008789]}}
+,
+{"type":"Feature","properties":{"id":"3856","name":"Sitka Rocky Gutierrez Airport","city":"Sitka","country":"United States","faa":"SIT","icao":"PASI","alt":"21","tz-offset":"-9","dst":"A","tz":"America/Anchorage","on_time":87.23,"description":"Sitka, AK: Sitka Rocky Gutierrez"},"geometry":{"type":"Point","coordinates":[-135.36199951171875,57.04710006713867]}}
+,
+{"type":"Feature","properties":{"id":"3857","name":"Long Island Mac Arthur Airport","city":"Islip","country":"United States","faa":"ISP","icao":"KISP","alt":"99","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":79.81,"description":"Islip, NY: Long Island MacArthur"},"geometry":{"type":"Point","coordinates":[-73.10019684,40.79520035]}}
+,
+{"type":"Feature","properties":{"id":"3858","name":"Minneapolis-St Paul International/Wold-Chamberlain Airport","city":"Minneapolis","country":"United States","faa":"MSP","icao":"KMSP","alt":"841","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":86.63,"description":"Minneapolis, MN: Minneapolis-St Paul International"},"geometry":{"type":"Point","coordinates":[-93.22180175780001,44.881999969499994]}}
+,
+{"type":"Feature","properties":{"id":"3861","name":"Louis Armstrong New Orleans International Airport","city":"New Orleans","country":"United States","faa":"MSY","icao":"KMSY","alt":"4","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":79.74,"description":"New Orleans, LA: Louis Armstrong New Orleans International"},"geometry":{"type":"Point","coordinates":[-90.25800323486328,29.99340057373047]}}
+,
+{"type":"Feature","properties":{"id":"3862","name":"Portland International Jetport Airport","city":"Portland","country":"United States","faa":"PWM","icao":"KPWM","alt":"76","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":76.71,"description":"Portland, ME: Portland International Jetport"},"geometry":{"type":"Point","coordinates":[-70.30930328,43.64619827]}}
+,
+{"type":"Feature","properties":{"id":"3863","name":"Will Rogers World Airport","city":"Oklahoma City","country":"United States","faa":"OKC","icao":"KOKC","alt":"1295","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":80.46,"description":"Oklahoma City, OK: Will Rogers World"},"geometry":{"type":"Point","coordinates":[-97.60070037841797,35.39310073852539]}}
+,
+{"type":"Feature","properties":{"id":"3864","name":"Albany International Airport","city":"Albany","country":"United States","faa":"ALB","icao":"KALB","alt":"285","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":81.41,"description":"Albany, NY: Albany International"},"geometry":{"type":"Point","coordinates":[-73.80169677734375,42.74829864501953]}}
+,
+{"type":"Feature","properties":{"id":"3867","name":"John Wayne Airport-Orange County Airport","city":"Santa Ana","country":"United States","faa":"SNA","icao":"KSNA","alt":"56","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":81.29,"description":"Santa Ana, CA: John Wayne Airport-Orange County"},"geometry":{"type":"Point","coordinates":[-117.8679962,33.67570114]}}
+,
+{"type":"Feature","properties":{"id":"3872","name":"Casper-Natrona County International Airport","city":"Casper","country":"United States","faa":"CPR","icao":"KCPR","alt":"5350","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":91.01,"description":"Casper, WY: Casper/Natrona County International"},"geometry":{"type":"Point","coordinates":[-106.4639969,42.90800095]}}
+,
+{"type":"Feature","properties":{"id":"3873","name":"Destin-Ft Walton Beach Airport","city":"Valparaiso","country":"United States","faa":"VPS","icao":"KVPS","alt":"87","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":83.87,"description":"Valparaiso, FL: Eglin AFB Destin Fort Walton Beach"},"geometry":{"type":"Point","coordinates":[-86.525398,30.4832]}}
+,
+{"type":"Feature","properties":{"id":"3875","name":"Key West International Airport","city":"Key West","country":"United States","faa":"EYW","icao":"KEYW","alt":"3","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":82.33,"description":"Key West, FL: Key West International"},"geometry":{"type":"Point","coordinates":[-81.75959777832031,24.556100845336914]}}
+,
+{"type":"Feature","properties":{"id":"3876","name":"Charlotte Douglas International Airport","city":"Charlotte","country":"United States","faa":"CLT","icao":"KCLT","alt":"748","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":84.14,"description":"Charlotte, NC: Charlotte Douglas International"},"geometry":{"type":"Point","coordinates":[-80.94309997558594,35.2140007019043]}}
+,
+{"type":"Feature","properties":{"id":"3877","name":"McCarran International Airport","city":"Las Vegas","country":"United States","faa":"LAS","icao":"KLAS","alt":"2181","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":79.68,"description":"Las Vegas, NV: McCarran International"},"geometry":{"type":"Point","coordinates":[-115.1520004,36.08010101]}}
+,
+{"type":"Feature","properties":{"id":"3878","name":"Orlando International Airport","city":"Orlando","country":"United States","faa":"MCO","icao":"KMCO","alt":"96","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":79.11,"description":"Orlando, FL: Orlando International"},"geometry":{"type":"Point","coordinates":[-81.30899810791016,28.429399490356445]}}
+,
+{"type":"Feature","properties":{"id":"3880","name":"Great Falls International Airport","city":"Great Falls","country":"United States","faa":"GTF","icao":"KGTF","alt":"3680","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":91.26,"description":"Great Falls, MT: Great Falls International"},"geometry":{"type":"Point","coordinates":[-111.3710022,47.48199844]}}
+,
+{"type":"Feature","properties":{"id":"3945","name":"Lewiston Nez Perce County Airport","city":"Lewiston","country":"United States","faa":"LWS","icao":"KLWS","alt":"1442","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":93.97,"description":"Lewiston, ID: Lewiston Nez Perce County"},"geometry":{"type":"Point","coordinates":[-117.01499938964844,46.3745002746582]}}
+,
+{"type":"Feature","properties":{"id":"3946","name":"Elmira Corning Regional Airport","city":"Elmira","country":"United States","faa":"ELM","icao":"KELM","alt":"954","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":76.51,"description":"Elmira/Corning, NY: Elmira/Corning Regional"},"geometry":{"type":"Point","coordinates":[-76.8916015625,42.1599006652832]}}
+,
+{"type":"Feature","properties":{"id":"3947","name":"Ithaca Tompkins Regional Airport","city":"Ithaca","country":"United States","faa":"ITH","icao":"KITH","alt":"1099","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":84.14,"description":"Ithaca/Cortland, NY: Ithaca Tompkins Regional"},"geometry":{"type":"Point","coordinates":[-76.4583969116211,42.49100112915039]}}
+,
+{"type":"Feature","properties":{"id":"3948","name":"Monterey Peninsula Airport","city":"Monterey","country":"United States","faa":"MRY","icao":"KMRY","alt":"257","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":71.98,"description":"Monterey, CA: Monterey Regional"},"geometry":{"type":"Point","coordinates":[-121.84300231933594,36.58700180053711]}}
+,
+{"type":"Feature","properties":{"id":"3949","name":"Santa Barbara Municipal Airport","city":"Santa Barbara","country":"United States","faa":"SBA","icao":"KSBA","alt":"13","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":74.44,"description":"Santa Barbara, CA: Santa Barbara Municipal"},"geometry":{"type":"Point","coordinates":[-119.8399963,34.42620087]}}
+,
+{"type":"Feature","properties":{"id":"3950","name":"Daytona Beach International Airport","city":"Daytona Beach","country":"United States","faa":"DAB","icao":"KDAB","alt":"34","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":84.12,"description":"Daytona Beach, FL: Daytona Beach International"},"geometry":{"type":"Point","coordinates":[-81.058098,29.179899]}}
+,
+{"type":"Feature","properties":{"id":"4007","name":"Asheville Regional Airport","city":"Asheville","country":"United States","faa":"AVL","icao":"KAVL","alt":"2165","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":78.29,"description":"Asheville, NC: Asheville Regional"},"geometry":{"type":"Point","coordinates":[-82.54180145263672,35.43619918823242]}}
+,
+{"type":"Feature","properties":{"id":"4008","name":"Piedmont Triad International Airport","city":"Greensboro","country":"United States","faa":"GSO","icao":"KGSO","alt":"925","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":79.17,"description":"Greensboro/High Point, NC: Piedmont Triad International"},"geometry":{"type":"Point","coordinates":[-79.93730163574219,36.097801208496094]}}
+,
+{"type":"Feature","properties":{"id":"4009","name":"Joe Foss Field Airport","city":"Sioux Falls","country":"United States","faa":"FSD","icao":"KFSD","alt":"1429","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":81.38,"description":"Sioux Falls, SD: Joe Foss Field"},"geometry":{"type":"Point","coordinates":[-96.741897583,43.582000732400004]}}
+,
+{"type":"Feature","properties":{"id":"4011","name":"Manchester Airport","city":"Manchester NH","country":"United States","faa":"MHT","icao":"KMHT","alt":"266","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":79.27,"description":"Manchester, NH: Manchester-Boston Regional"},"geometry":{"type":"Point","coordinates":[-71.43569946289062,42.93259811401367]}}
+,
+{"type":"Feature","properties":{"id":"4014","name":"Louisville International Standiford Field","city":"Louisville","country":"United States","faa":"SDF","icao":"KSDF","alt":"501","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":81.44,"description":"Louisville, KY: Louisville International-Standiford Field"},"geometry":{"type":"Point","coordinates":[-85.736,38.1744]}}
+,
+{"type":"Feature","properties":{"id":"4015","name":"Charlottesville Albemarle Airport","city":"Charlottesville VA","country":"United States","faa":"CHO","icao":"KCHO","alt":"639","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":73.45,"description":"Charlottesville, VA: Charlottesville Albemarle"},"geometry":{"type":"Point","coordinates":[-78.4529037475586,38.13859939575195]}}
+,
+{"type":"Feature","properties":{"id":"4016","name":"Roanoke–Blacksburg Regional Airport","city":"Roanoke VA","country":"United States","faa":"ROA","icao":"KROA","alt":"1175","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":79.83,"description":"Roanoke, VA: Roanoke Blacksburg Regional Woodrum Field"},"geometry":{"type":"Point","coordinates":[-79.975402832,37.325500488299994]}}
+,
+{"type":"Feature","properties":{"id":"4017","name":"Blue Grass Airport","city":"Lexington KY","country":"United States","faa":"LEX","icao":"KLEX","alt":"979","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":79.56,"description":"Lexington, KY: Blue Grass"},"geometry":{"type":"Point","coordinates":[-84.60590362548828,38.0364990234375]}}
+,
+{"type":"Feature","properties":{"id":"4018","name":"Evansville Regional Airport","city":"Evansville","country":"United States","faa":"EVV","icao":"KEVV","alt":"418","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":79.42,"description":"Evansville, IN: Evansville Regional"},"geometry":{"type":"Point","coordinates":[-87.5324020386,38.0369987488]}}
+,
+{"type":"Feature","properties":{"id":"4019","name":"Albuquerque International Sunport Airport","city":"Albuquerque","country":"United States","faa":"ABQ","icao":"KABQ","alt":"5355","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":80.6,"description":"Albuquerque, NM: Albuquerque International Sunport"},"geometry":{"type":"Point","coordinates":[-106.60900115966797,35.040199279785156]}}
+,
+{"type":"Feature","properties":{"id":"4020","name":"Gallatin Field","city":"Bozeman","country":"United States","faa":"BZN","icao":"KBZN","alt":"4473","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":85.46,"description":"Bozeman, MT: Bozeman Yellowstone International"},"geometry":{"type":"Point","coordinates":[-111.1529999,45.77750015]}}
+,
+{"type":"Feature","properties":{"id":"4021","name":"Billings Logan International Airport","city":"Billings","country":"United States","faa":"BIL","icao":"KBIL","alt":"3652","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":87.87,"description":"Billings, MT: Billings Logan International"},"geometry":{"type":"Point","coordinates":[-108.54299926757812,45.807701110839844]}}
+,
+{"type":"Feature","properties":{"id":"4022","name":"Bert Mooney Airport","city":"Butte","country":"United States","faa":"BTM","icao":"KBTM","alt":"5550","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":89.05,"description":"Butte, MT: Bert Mooney"},"geometry":{"type":"Point","coordinates":[-112.49700164794922,45.95479965209961]}}
+,
+{"type":"Feature","properties":{"id":"4023","name":"Cherry Capital Airport","city":"Traverse City","country":"United States","faa":"TVC","icao":"KTVC","alt":"624","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":76.36,"description":"Traverse City, MI: Cherry Capital"},"geometry":{"type":"Point","coordinates":[-85.58219909667969,44.74140167236328]}}
+,
+{"type":"Feature","properties":{"id":"4027","name":"Jackson Hole Airport","city":"Jacksn Hole","country":"United States","faa":"JAC","icao":"KJAC","alt":"6451","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":81.56,"description":"Jackson, WY: Jackson Hole"},"geometry":{"type":"Point","coordinates":[-110.73799896240234,43.6072998046875]}}
+,
+{"type":"Feature","properties":{"id":"4034","name":"Greenville Spartanburg International Airport","city":"Greenville","country":"United States","faa":"GSP","icao":"KGSP","alt":"964","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":80.65,"description":"Greer, SC: Greenville-Spartanburg International"},"geometry":{"type":"Point","coordinates":[-82.2189025879,34.8956985474]}}
+,
+{"type":"Feature","properties":{"id":"4037","name":"Central Illinois Regional Airport at Bloomington-Normal","city":"Bloomington","country":"United States","faa":"BMI","icao":"KBMI","alt":"871","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":78.3,"description":"Bloomington/Normal, IL: Central Illinois Regional"},"geometry":{"type":"Point","coordinates":[-88.91590118,40.47710037]}}
+,
+{"type":"Feature","properties":{"id":"4038","name":"Gulfport Biloxi International Airport","city":"Gulfport","country":"United States","faa":"GPT","icao":"KGPT","alt":"28","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":84.43,"description":"Gulfport/Biloxi, MS: Gulfport-Biloxi International"},"geometry":{"type":"Point","coordinates":[-89.07009887695312,30.40730094909668]}}
+,
+{"type":"Feature","properties":{"id":"4039","name":"Kalamazoo Battle Creek International Airport","city":"Kalamazoo","country":"United States","faa":"AZO","icao":"KAZO","alt":"874","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":78.25,"description":"Kalamazoo, MI: Kalamazoo/Battle Creek International"},"geometry":{"type":"Point","coordinates":[-85.5521011352539,42.234901428222656]}}
+,
+{"type":"Feature","properties":{"id":"4040","name":"Toledo Express Airport","city":"Toledo","country":"United States","faa":"TOL","icao":"KTOL","alt":"683","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":65.02,"description":"Toledo, OH: Toledo Express"},"geometry":{"type":"Point","coordinates":[-83.80780029,41.58679962]}}
+,
+{"type":"Feature","properties":{"id":"4041","name":"Fort Wayne International Airport","city":"Fort Wayne","country":"United States","faa":"FWA","icao":"KFWA","alt":"814","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":75.67,"description":"Fort Wayne, IN: Fort Wayne International"},"geometry":{"type":"Point","coordinates":[-85.19509888,40.97850037]}}
+,
+{"type":"Feature","properties":{"id":"4043","name":"The Eastern Iowa Airport","city":"Cedar Rapids","country":"United States","faa":"CID","icao":"KCID","alt":"869","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":80.54,"description":"Cedar Rapids/Iowa City, IA: The Eastern Iowa"},"geometry":{"type":"Point","coordinates":[-91.71080017089844,41.884700775146484]}}
+,
+{"type":"Feature","properties":{"id":"4044","name":"La Crosse Municipal Airport","city":"La Crosse","country":"United States","faa":"LSE","icao":"KLSE","alt":"655","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":79.79,"description":"La Crosse, WI: La Crosse Regional"},"geometry":{"type":"Point","coordinates":[-91.256699,43.879002]}}
+,
+{"type":"Feature","properties":{"id":"4045","name":"Central Wisconsin Airport","city":"Wassau","country":"United States","faa":"CWA","icao":"KCWA","alt":"1277","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":75.29,"description":"Mosinee, WI: Central Wisconsin"},"geometry":{"type":"Point","coordinates":[-89.6668014526,44.7775993347]}}
+,
+{"type":"Feature","properties":{"id":"4046","name":"General Wayne A. Downing Peoria International Airport","city":"Peoria","country":"United States","faa":"PIA","icao":"KPIA","alt":"660","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":75.43,"description":"Peoria, IL: General Downing - Peoria International"},"geometry":{"type":"Point","coordinates":[-89.6932983398,40.664199829100006]}}
+,
+{"type":"Feature","properties":{"id":"4047","name":"Appleton International Airport","city":"Appleton","country":"United States","faa":"ATW","icao":"KATW","alt":"918","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":82.1,"description":"Appleton, WI: Appleton International"},"geometry":{"type":"Point","coordinates":[-88.5190963745,44.258098602299995]}}
+,
+{"type":"Feature","properties":{"id":"4048","name":"Rochester International Airport","city":"Rochester","country":"United States","faa":"RST","icao":"KRST","alt":"1317","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":76.9,"description":"Rochester, MN: Rochester International"},"geometry":{"type":"Point","coordinates":[-92.5,43.90829849243164]}}
+,
+{"type":"Feature","properties":{"id":"4050","name":"Manhattan Regional Airport","city":"Manhattan","country":"United States","faa":"MHK","icao":"KMHK","alt":"1057","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":76.42,"description":"Manhattan/Ft. Riley, KS: Manhattan Regional"},"geometry":{"type":"Point","coordinates":[-96.6707992553711,39.14099884033203]}}
+,
+{"type":"Feature","properties":{"id":"4063","name":"Grand Junction Regional Airport","city":"Grand Junction","country":"United States","faa":"GJT","icao":"KGJT","alt":"4858","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":90.44,"description":"Grand Junction, CO: Grand Junction Regional"},"geometry":{"type":"Point","coordinates":[-108.527000427,39.1223983765]}}
+,
+{"type":"Feature","properties":{"id":"4064","name":"St George Municipal Airport","city":"Saint George","country":"United States","faa":"SGU","icao":"KSGU","alt":"2941","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":89.95,"description":"St. George, UT: St George Regional"},"geometry":{"type":"Point","coordinates":[-113.510305556,37.0363888889]}}
+,
+{"type":"Feature","properties":{"id":"4067","name":"Sarasota Bradenton International Airport","city":"Sarasota","country":"United States","faa":"SRQ","icao":"KSRQ","alt":"30","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":84.41,"description":"Sarasota/Bradenton, FL: Sarasota/Bradenton International"},"geometry":{"type":"Point","coordinates":[-82.55439758300781,27.39539909362793]}}
+,
+{"type":"Feature","properties":{"id":"4072","name":"Quad City International Airport","city":"Moline","country":"United States","faa":"MLI","icao":"KMLI","alt":"590","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":76.92,"description":"Moline, IL: Quad City International"},"geometry":{"type":"Point","coordinates":[-90.50749969482422,41.44850158691406]}}
+,
+{"type":"Feature","properties":{"id":"4083","name":"Bismarck Municipal Airport","city":"Bismarck","country":"United States","faa":"BIS","icao":"KBIS","alt":"1661","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":83.31,"description":"Bismarck/Mandan, ND: Bismarck Municipal"},"geometry":{"type":"Point","coordinates":[-100.74600219726562,46.772701263427734]}}
+,
+{"type":"Feature","properties":{"id":"4087","name":"Rapid City Regional Airport","city":"Rapid City","country":"United States","faa":"RAP","icao":"KRAP","alt":"3204","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":87.24,"description":"Rapid City, SD: Rapid City Regional"},"geometry":{"type":"Point","coordinates":[-103.05699920654297,44.0452995300293]}}
+,
+{"type":"Feature","properties":{"id":"4089","name":"Bishop International Airport","city":"Flint","country":"United States","faa":"FNT","icao":"KFNT","alt":"782","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":80.9,"description":"Flint, MI: Bishop International"},"geometry":{"type":"Point","coordinates":[-83.74359893798828,42.96540069580078]}}
+,
+{"type":"Feature","properties":{"id":"4098","name":"Redding Municipal Airport","city":"Redding","country":"United States","faa":"RDD","icao":"KRDD","alt":"505","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":73.44,"description":"Redding, CA: Redding Municipal"},"geometry":{"type":"Point","coordinates":[-122.2929993,40.50899887]}}
+,
+{"type":"Feature","properties":{"id":"4099","name":"Mahlon Sweet Field","city":"Eugene","country":"United States","faa":"EUG","icao":"KEUG","alt":"374","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":80.56,"description":"Eugene, OR: Mahlon Sweet Field"},"geometry":{"type":"Point","coordinates":[-123.21199798583984,44.12459945678711]}}
+,
+{"type":"Feature","properties":{"id":"4100","name":"Idaho Falls Regional Airport","city":"Idaho Falls","country":"United States","faa":"IDA","icao":"KIDA","alt":"4744","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":88.09,"description":"Idaho Falls, ID: Idaho Falls Regional"},"geometry":{"type":"Point","coordinates":[-112.07099914550781,43.51459884643555]}}
+,
+{"type":"Feature","properties":{"id":"4101","name":"Rogue Valley International Medford Airport","city":"Medford","country":"United States","faa":"MFR","icao":"KMFR","alt":"1335","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":79.71,"description":"Medford, OR: Rogue Valley International - Medford"},"geometry":{"type":"Point","coordinates":[-122.87300109863281,42.37419891357422]}}
+,
+{"type":"Feature","properties":{"id":"4103","name":"Roberts Field","city":"Redmond-Bend","country":"United States","faa":"RDM","icao":"KRDM","alt":"3080","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":80.08,"description":"Bend/Redmond, OR: Roberts Field"},"geometry":{"type":"Point","coordinates":[-121.1500015,44.2541008]}}
+,
+{"type":"Feature","properties":{"id":"4112","name":"Akron Canton Regional Airport","city":"Akron","country":"United States","faa":"CAK","icao":"KCAK","alt":"1228","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":78.83,"description":"Akron, OH: Akron-Canton Regional"},"geometry":{"type":"Point","coordinates":[-81.44219970703125,40.916099548339844]}}
+,
+{"type":"Feature","properties":{"id":"4113","name":"Huntsville International Carl T Jones Field","city":"Huntsville","country":"United States","faa":"HSV","icao":"KHSV","alt":"629","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":84.75,"description":"Huntsville, AL: Huntsville International-Carl T Jones Field"},"geometry":{"type":"Point","coordinates":[-86.775100708008,34.637199401855]}}
+,
+{"type":"Feature","properties":{"id":"4115","name":"Montgomery Regional (Dannelly Field) Airport","city":"MONTGOMERY","country":"United States","faa":"MGM","icao":"KMGM","alt":"221","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":77,"description":"Montgomery, AL: Montgomery Regional"},"geometry":{"type":"Point","coordinates":[-86.39399719,32.30059814]}}
+,
+{"type":"Feature","properties":{"id":"4116","name":"Tri Cities Regional Tn Va Airport","city":"BRISTOL","country":"United States","faa":"TRI","icao":"KTRI","alt":"1519","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":78.51,"description":"Bristol/Johnson City/Kingsport, TN: Tri Cities"},"geometry":{"type":"Point","coordinates":[-82.40740203857422,36.47520065307617]}}
+,
+{"type":"Feature","properties":{"id":"4117","name":"Barkley Regional Airport","city":"PADUCAH","country":"United States","faa":"PAH","icao":"KPAH","alt":"410","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":80.16,"description":"Paducah, KY: Barkley Regional"},"geometry":{"type":"Point","coordinates":[-88.7738037109375,37.06079864501953]}}
+,
+{"type":"Feature","properties":{"id":"4127","name":"Glacier Park International Airport","city":"Kalispell","country":"United States","faa":"FCA","icao":"KGPI","alt":"2977","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":86,"description":"Kalispell, MT: Glacier Park International"},"geometry":{"type":"Point","coordinates":[-114.25599670410156,48.31050109863281]}}
+,
+{"type":"Feature","properties":{"id":"4128","name":"MBS International Airport","city":"Saginaw","country":"United States","faa":"MBS","icao":"KMBS","alt":"668","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":84.33,"description":"Saginaw/Bay City/Midland, MI: MBS International"},"geometry":{"type":"Point","coordinates":[-84.07959747314453,43.532901763916016]}}
+,
+{"type":"Feature","properties":{"id":"4129","name":"Greater Binghamton/Edwin A Link field","city":"Binghamton","country":"United States","faa":"BGM","icao":"KBGM","alt":"1636","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":79.54,"description":"Binghamton, NY: Greater Binghamton/Edwin A. Link Field"},"geometry":{"type":"Point","coordinates":[-75.97979736,42.20869827]}}
+,
+{"type":"Feature","properties":{"id":"4147","name":"Petersburg James A Johnson Airport","city":"Petersburg","country":"United States","faa":"PSG","icao":"PAPG","alt":"111","tz-offset":"-9","dst":"A","tz":"America/Anchorage","on_time":80.48,"description":"Petersburg, AK: Petersburg James A Johnson"},"geometry":{"type":"Point","coordinates":[-132.9450073,56.80170059]}}
+,
+{"type":"Feature","properties":{"id":"4216","name":"Missoula International Airport","city":"Missoula","country":"United States","faa":"MSO","icao":"KMSO","alt":"3206","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":85.85,"description":"Missoula, MT: Missoula International"},"geometry":{"type":"Point","coordinates":[-114.0910034,46.91630173]}}
+,
+{"type":"Feature","properties":{"id":"4250","name":"Eagle County Regional Airport","city":"Vail","country":"United States","faa":"EGE","icao":"KEGE","alt":"6548","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":73.57,"description":"Eagle, CO: Eagle County Regional"},"geometry":{"type":"Point","coordinates":[-106.9179993,39.64260101]}}
+,
+{"type":"Feature","properties":{"id":"4255","name":"Columbus Metropolitan Airport","city":"Columbus","country":"United States","faa":"CSG","icao":"KCSG","alt":"397","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":78.43,"description":"Columbus, GA: Columbus Airport"},"geometry":{"type":"Point","coordinates":[-84.93890380859375,32.516300201416016]}}
+,
+{"type":"Feature","properties":{"id":"4256","name":"Lawton Fort Sill Regional Airport","city":"Lawton","country":"United States","faa":"LAW","icao":"KLAW","alt":"1110","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":73.35,"description":"Lawton/Fort Sill, OK: Lawton-Fort Sill Regional"},"geometry":{"type":"Point","coordinates":[-98.4166030884,34.5676994324]}}
+,
+{"type":"Feature","properties":{"id":"4257","name":"Fort Collins Loveland Municipal Airport","city":"Fort Collins","country":"United States","faa":"FNL","icao":"KFNL","alt":"5016","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":100,"description":"Fort Collins/Loveland, CO: Fort Collins-Loveland Municipal"},"geometry":{"type":"Point","coordinates":[-105.011001587,40.4518013]}}
+,
+{"type":"Feature","properties":{"id":"4261","name":"Flagstaff Pulliam Airport","city":"Flagstaff","country":"United States","faa":"FLG","icao":"KFLG","alt":"7014","tz-offset":"-7","dst":"N","tz":"America/Phoenix","on_time":88.52,"description":"Flagstaff, AZ: Flagstaff Pulliam"},"geometry":{"type":"Point","coordinates":[-111.6709976,35.13850021]}}
+,
+{"type":"Feature","properties":{"id":"4263","name":"Joslin Field Magic Valley Regional Airport","city":"Twin Falls","country":"United States","faa":"TWF","icao":"KTWF","alt":"4154","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":90,"description":"Twin Falls, ID: Joslin Field - Magic Valley Regional"},"geometry":{"type":"Point","coordinates":[-114.487999,42.48180008]}}
+,
+{"type":"Feature","properties":{"id":"4265","name":"Martha's Vineyard Airport","city":"Vineyard Haven MA","country":"United States","faa":"MVY","icao":"KMVY","alt":"67","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":78.42,"description":"Martha's Vineyard, MA: Martha's Vineyard Airport"},"geometry":{"type":"Point","coordinates":[-70.6143035889,41.3931007385]}}
+,
+{"type":"Feature","properties":{"id":"4273","name":"Golden Triangle Regional Airport","city":"Columbus Mississippi","country":"United States","faa":"GTR","icao":"KGTR","alt":"264","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":79.66,"description":"Columbus, MS: Golden Triangle Regional"},"geometry":{"type":"Point","coordinates":[-88.5914001465,33.450298309299995]}}
+,
+{"type":"Feature","properties":{"id":"4276","name":"Erie International Tom Ridge Field","city":"Erie","country":"United States","faa":"ERI","icao":"KERI","alt":"732","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":80.9,"description":"Erie, PA: Erie International/Tom Ridge Field"},"geometry":{"type":"Point","coordinates":[-80.1738667488,42.0831270134]}}
+,
+{"type":"Feature","properties":{"id":"4278","name":"Barnstable Municipal Boardman Polando Field","city":"Barnstable","country":"United States","faa":"HYA","icao":"KHYA","alt":"54","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":77.66,"description":"Hyannis, MA: Barnstable Municipal-Boardman/Polando Field"},"geometry":{"type":"Point","coordinates":[-70.28040314,41.66930008]}}
+,
+{"type":"Feature","properties":{"id":"4285","name":"Yeager Airport","city":"Charleston","country":"United States","faa":"CRW","icao":"KCRW","alt":"981","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":78.03,"description":"Charleston/Dunbar, WV: Yeager"},"geometry":{"type":"Point","coordinates":[-81.59320068359375,38.37310028076172]}}
+,
+{"type":"Feature","properties":{"id":"4286","name":"Wilkes Barre Scranton International Airport","city":"Scranton","country":"United States","faa":"AVP","icao":"KAVP","alt":"962","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":80.81,"description":"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International"},"geometry":{"type":"Point","coordinates":[-75.72339630130001,41.338500976599995]}}
+,
+{"type":"Feature","properties":{"id":"4287","name":"Bemidji Regional Airport","city":"Bemidji","country":"United States","faa":"BJI","icao":"KBJI","alt":"1391","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":90.54,"description":"Bemidji, MN: Bemidji Regional"},"geometry":{"type":"Point","coordinates":[-94.93370056,47.50939941]}}
+,
+{"type":"Feature","properties":{"id":"4292","name":"Hector International Airport","city":"Fargo","country":"United States","faa":"FAR","icao":"KFAR","alt":"902","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":85.32,"description":"Fargo, ND: Hector International"},"geometry":{"type":"Point","coordinates":[-96.81580352783203,46.92070007324219]}}
+,
+{"type":"Feature","properties":{"id":"4296","name":"Gillette Campbell County Airport","city":"Gillette","country":"United States","faa":"GCC","icao":"KGCC","alt":"4365","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":86.83,"description":"Gillette, WY: Gillette Campbell County"},"geometry":{"type":"Point","coordinates":[-105.539001465,44.348899841299996]}}
+,
+{"type":"Feature","properties":{"id":"4318","name":"University Park Airport","city":"State College Pennsylvania","country":"United States","faa":"SCE","icao":"KUNV","alt":"1239","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":80.4,"description":"State College, PA: University Park"},"geometry":{"type":"Point","coordinates":[-77.84870147710001,40.8493003845]}}
+,
+{"type":"Feature","properties":{"id":"4335","name":"Key Field","city":"Meridian","country":"United States","faa":"MEI","icao":"KMEI","alt":"297","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":72.89,"description":"Meridian, MS: Key Field"},"geometry":{"type":"Point","coordinates":[-88.75189971923828,32.33259963989258]}}
+,
+{"type":"Feature","properties":{"id":"4336","name":"Abraham Lincoln Capital Airport","city":"Springfield","country":"United States","faa":"SPI","icao":"KSPI","alt":"598","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":81.3,"description":"Springfield, IL: Abraham Lincoln Capital"},"geometry":{"type":"Point","coordinates":[-89.67790222,39.84410095]}}
+,
+{"type":"Feature","properties":{"id":"4339","name":"Yampa Valley Airport","city":"Hayden","country":"United States","faa":"HDN","icao":"KHDN","alt":"6606","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":77.9,"description":"Hayden, CO: Yampa Valley"},"geometry":{"type":"Point","coordinates":[-107.2180023,40.48120117]}}
+,
+{"type":"Feature","properties":{"id":"4344","name":"Yellowstone Regional Airport","city":"Cody","country":"United States","faa":"COD","icao":"KCOD","alt":"5102","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":91.74,"description":"Cody, WY: Yellowstone Regional"},"geometry":{"type":"Point","coordinates":[-109.024002075,44.520198822]}}
+,
+{"type":"Feature","properties":{"id":"4348","name":"Springfield Branson National Airport","city":"Springfield","country":"United States","faa":"SGF","icao":"KSGF","alt":"1268","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":81.71,"description":"Springfield, MO: Springfield-Branson National"},"geometry":{"type":"Point","coordinates":[-93.38860321,37.24570084]}}
+,
+{"type":"Feature","properties":{"id":"4354","name":"Joplin Regional Airport","city":"Joplin","country":"United States","faa":"JLN","icao":"KJLN","alt":"981","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":78.84,"description":"Joplin, MO: Joplin Regional"},"geometry":{"type":"Point","coordinates":[-94.49829864501953,37.151798248291016]}}
+,
+{"type":"Feature","properties":{"id":"4355","name":"Lehigh Valley International Airport","city":"Allentown","country":"United States","faa":"ABE","icao":"KABE","alt":"393","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":82.24,"description":"Allentown/Bethlehem/Easton, PA: Lehigh Valley International"},"geometry":{"type":"Point","coordinates":[-75.44080352783203,40.652099609375]}}
+,
+{"type":"Feature","properties":{"id":"4356","name":"Northwest Arkansas Regional Airport","city":"Bentonville","country":"United States","faa":"XNA","icao":"KXNA","alt":"1287","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":79.75,"description":"Fayetteville, AR: Northwest Arkansas Regional"},"geometry":{"type":"Point","coordinates":[-94.306801,36.281898]}}
+,
+{"type":"Feature","properties":{"id":"4359","name":"South Bend Regional Airport","city":"South Bend","country":"United States","faa":"SBN","icao":"KSBN","alt":"799","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":80.11,"description":"South Bend, IN: South Bend International"},"geometry":{"type":"Point","coordinates":[-86.31729888916016,41.70869827270508]}}
+,
+{"type":"Feature","properties":{"id":"4384","name":"Arcata Airport","city":"Arcata CA","country":"United States","faa":"ACV","icao":"KACV","alt":"221","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":67.64,"description":"Arcata/Eureka, CA: California Redwood Coast Humboldt County"},"geometry":{"type":"Point","coordinates":[-124.10900115966797,40.97809982299805]}}
+,
+{"type":"Feature","properties":{"id":"4386","name":"Albert J Ellis Airport","city":"Jacksonville NC","country":"United States","faa":"OAJ","icao":"KOAJ","alt":"94","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":79.78,"description":"Jacksonville/Camp Lejeune, NC: Albert J Ellis"},"geometry":{"type":"Point","coordinates":[-77.61209869380001,34.8292007446]}}
+,
+{"type":"Feature","properties":{"id":"5714","name":"Aberdeen Regional Airport","city":"Aberdeen","country":"United States","faa":"ABR","icao":"KABR","alt":"1302","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":92.05,"description":"Aberdeen, SD: Aberdeen Regional"},"geometry":{"type":"Point","coordinates":[-98.42179870605469,45.449100494384766]}}
+,
+{"type":"Feature","properties":{"id":"5715","name":"Southwest Georgia Regional Airport","city":"Albany","country":"United States","faa":"ABY","icao":"KABY","alt":"197","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":79.03,"description":"Albany, GA: Southwest Georgia Regional"},"geometry":{"type":"Point","coordinates":[-84.19450378417969,31.535499572753906]}}
+,
+{"type":"Feature","properties":{"id":"5718","name":"Waterloo Regional Airport","city":"Waterloo","country":"United States","faa":"ALO","icao":"KALO","alt":"873","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":74.27,"description":"Waterloo, IA: Waterloo Regional"},"geometry":{"type":"Point","coordinates":[-92.40029907226562,42.557098388671875]}}
+,
+{"type":"Feature","properties":{"id":"5720","name":"Alpena County Regional Airport","city":"Alpena","country":"United States","faa":"APN","icao":"KAPN","alt":"690","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":82.72,"description":"Alpena, MI: Alpena County Regional"},"geometry":{"type":"Point","coordinates":[-83.56030273,45.0780983]}}
+,
+{"type":"Feature","properties":{"id":"5725","name":"Brunswick Golden Isles Airport","city":"Brunswick","country":"United States","faa":"BQK","icao":"KBQK","alt":"26","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":78.58,"description":"Brunswick, GA: Brunswick Golden Isles"},"geometry":{"type":"Point","coordinates":[-81.46649932861328,31.258800506591797]}}
+,
+{"type":"Feature","properties":{"id":"5729","name":"Chippewa County International Airport","city":"Sault Ste Marie","country":"United States","faa":"CIU","icao":"KCIU","alt":"800","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":84.03,"description":"Sault Ste. Marie, MI: Chippewa County International"},"geometry":{"type":"Point","coordinates":[-84.47239685058594,46.25080108642578]}}
+,
+{"type":"Feature","properties":{"id":"5730","name":"North Central West Virginia Airport","city":"Clarksburg","country":"United States","faa":"CKB","icao":"KCKB","alt":"1217","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":85.71,"description":"Clarksburg/Fairmont, WV: North Central West Virginia"},"geometry":{"type":"Point","coordinates":[-80.2281036377,39.2966003418]}}
+,
+{"type":"Feature","properties":{"id":"5732","name":"Houghton County Memorial Airport","city":"Hancock","country":"United States","faa":"CMX","icao":"KCMX","alt":"1095","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":79.04,"description":"Hancock/Houghton, MI: Houghton County Memorial"},"geometry":{"type":"Point","coordinates":[-88.48909759521484,47.168399810791016]}}
+,
+{"type":"Feature","properties":{"id":"5735","name":"Chippewa Valley Regional Airport","city":"Eau Claire","country":"United States","faa":"EAU","icao":"KEAU","alt":"913","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":81.96,"description":"Eau Claire, WI: Chippewa Valley Regional"},"geometry":{"type":"Point","coordinates":[-91.48429870605469,44.86579895019531]}}
+,
+{"type":"Feature","properties":{"id":"5736","name":"Elko Regional Airport","city":"Elko","country":"United States","faa":"EKO","icao":"KEKO","alt":"5140","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":91.21,"description":"Elko, NV: Elko Regional"},"geometry":{"type":"Point","coordinates":[-115.79199981689453,40.82490158081055]}}
+,
+{"type":"Feature","properties":{"id":"5738","name":"Fayetteville Regional Grannis Field","city":"Fayetteville","country":"United States","faa":"FAY","icao":"KFAY","alt":"189","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":81.63,"description":"Fayetteville, NC: Fayetteville Regional/Grannis Field"},"geometry":{"type":"Point","coordinates":[-78.88030242919922,34.9911994934082]}}
+,
+{"type":"Feature","properties":{"id":"5740","name":"Central Nebraska Regional Airport","city":"Grand Island","country":"United States","faa":"GRI","icao":"KGRI","alt":"1847","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":77.16,"description":"Grand Island, NE: Central Nebraska Regional"},"geometry":{"type":"Point","coordinates":[-98.30960083007812,40.967498779296875]}}
+,
+{"type":"Feature","properties":{"id":"5745","name":"Jamestown Regional Airport","city":"Jamestown","country":"United States","faa":"JMS","icao":"KJMS","alt":"1500","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":83.63,"description":"Jamestown, ND: Jamestown Regional"},"geometry":{"type":"Point","coordinates":[-98.67819977,46.92969894]}}
+,
+{"type":"Feature","properties":{"id":"5746","name":"Laramie Regional Airport","city":"Laramie","country":"United States","faa":"LAR","icao":"KLAR","alt":"7284","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":84.97,"description":"Laramie, WY: Laramie Regional"},"geometry":{"type":"Point","coordinates":[-105.67500305175781,41.31209945678711]}}
+,
+{"type":"Feature","properties":{"id":"5747","name":"Arnold Palmer Regional Airport","city":"Latrobe","country":"United States","faa":"LBE","icao":"KLBE","alt":"1199","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":79.06,"description":"Latrobe, PA: Arnold Palmer Regional"},"geometry":{"type":"Point","coordinates":[-79.40480042,40.27590179]}}
+,
+{"type":"Feature","properties":{"id":"5754","name":"Muskegon County Airport","city":"Muskegon","country":"United States","faa":"MKG","icao":"KMKG","alt":"629","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":81.8,"description":"Muskegon, MI: Muskegon County"},"geometry":{"type":"Point","coordinates":[-86.23819733,43.16949844]}}
+,
+{"type":"Feature","properties":{"id":"5757","name":"Southwest Oregon Regional Airport","city":"North Bend","country":"United States","faa":"OTH","icao":"KOTH","alt":"17","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":53.45,"description":"North Bend/Coos Bay, OR: Southwest Oregon Regional"},"geometry":{"type":"Point","coordinates":[-124.24600219726562,43.41709899902344]}}
+,
+{"type":"Feature","properties":{"id":"5759","name":"Hattiesburg Laurel Regional Airport","city":"Hattiesburg/Laurel","country":"United States","faa":"PIB","icao":"KPIB","alt":"298","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":70.88,"description":"Hattiesburg/Laurel, MS: Hattiesburg-Laurel Regional"},"geometry":{"type":"Point","coordinates":[-89.33709716796875,31.467100143432617]}}
+,
+{"type":"Feature","properties":{"id":"5760","name":"Pocatello Regional Airport","city":"Pocatello","country":"United States","faa":"PIH","icao":"KPIH","alt":"4452","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":90.52,"description":"Pocatello, ID: Pocatello Regional"},"geometry":{"type":"Point","coordinates":[-112.59600067138672,42.9098014831543]}}
+,
+{"type":"Feature","properties":{"id":"5762","name":"Pellston Regional Airport of Emmet County Airport","city":"Pellston","country":"United States","faa":"PLN","icao":"KPLN","alt":"721","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":79.94,"description":"Pellston, MI: Pellston Regional Airport of Emmet County"},"geometry":{"type":"Point","coordinates":[-84.79669952,45.57089996]}}
+,
+{"type":"Feature","properties":{"id":"5765","name":"Rhinelander Oneida County Airport","city":"Rhinelander","country":"United States","faa":"RHI","icao":"KRHI","alt":"1624","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":87.41,"description":"Rhinelander, WI: Rhinelander/Oneida County"},"geometry":{"type":"Point","coordinates":[-89.46749877929688,45.63119888305664]}}
+,
+{"type":"Feature","properties":{"id":"5766","name":"Rock Springs Sweetwater County Airport","city":"Rock Springs","country":"United States","faa":"RKS","icao":"KRKS","alt":"6764","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":85.44,"description":"Rock Springs, WY: Rock Springs Sweetwater County"},"geometry":{"type":"Point","coordinates":[-109.0650024,41.59420013]}}
+,
+{"type":"Feature","properties":{"id":"5768","name":"San Luis County Regional Airport","city":"San Luis Obispo","country":"United States","faa":"SBP","icao":"KSBP","alt":"212","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":74.41,"description":"San Luis Obispo, CA: San Luis County Regional"},"geometry":{"type":"Point","coordinates":[-120.641998291,35.236801147499996]}}
+,
+{"type":"Feature","properties":{"id":"5776","name":"Valdosta Regional Airport","city":"Valdosta","country":"United States","faa":"VLD","icao":"KVLD","alt":"203","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":79.7,"description":"Valdosta, GA: Valdosta Regional"},"geometry":{"type":"Point","coordinates":[-83.27670288085938,30.782499313354492]}}
+,
+{"type":"Feature","properties":{"id":"5959","name":"Adak Airport","city":"Adak Island","country":"United States","faa":"ADK","icao":"PADK","alt":"18","tz-offset":"-10","dst":"A","tz":"America/Adak","on_time":85.26,"description":"Adak Island, AK: Adak"},"geometry":{"type":"Point","coordinates":[-176.64599609375,51.87799835205078]}}
+,
+{"type":"Feature","properties":{"id":"5960","name":"Gustavus Airport","city":"Gustavus","country":"United States","faa":"GST","icao":"PAGS","alt":"35","tz-offset":"-9","dst":"A","tz":"America/Anchorage","on_time":83.33,"description":"Gustavus, AK: Gustavus Airport"},"geometry":{"type":"Point","coordinates":[-135.7070007,58.4253006]}}
+,
+{"type":"Feature","properties":{"id":"5969","name":"Wrangell Airport","city":"Wrangell","country":"United States","faa":"WRG","icao":"PAWG","alt":"49","tz-offset":"-9","dst":"A","tz":"America/Anchorage","on_time":80.48,"description":"Wrangell, AK: Wrangell Airport"},"geometry":{"type":"Point","coordinates":[-132.3699951,56.48429871]}}
+,
+{"type":"Feature","properties":{"id":"6133","name":"Tri Cities Airport","city":"Pasco","country":"United States","faa":"PSC","icao":"KPSC","alt":"410","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":82.25,"description":"Pasco/Kennewick/Richland, WA: Tri Cities"},"geometry":{"type":"Point","coordinates":[-119.11900329589844,46.26470184326172]}}
+,
+{"type":"Feature","properties":{"id":"6426","name":"Worcester Regional Airport","city":"Worcester","country":"United States","faa":"ORH","icao":"KORH","alt":"1009","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":74.4,"description":"Worcester, MA: Worcester Regional"},"geometry":{"type":"Point","coordinates":[-71.87570190429688,42.26729965209961]}}
+,
+{"type":"Feature","properties":{"id":"6494","name":"Friedman Memorial Airport","city":"Hailey","country":"United States","faa":"SUN","icao":"KSUN","alt":"5318","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":74.28,"description":"Sun Valley/Hailey/Ketchum, ID: Friedman Memorial"},"geometry":{"type":"Point","coordinates":[-114.2959976,43.50439835]}}
+,
+{"type":"Feature","properties":{"id":"6800","name":"Delta County Airport","city":"Escanaba","country":"United States","faa":"ESC","icao":"KESC","alt":"609","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":80.8,"description":"Escanaba, MI: Delta County"},"geometry":{"type":"Point","coordinates":[-87.0936965942,45.7226982117]}}
+,
+{"type":"Feature","properties":{"id":"6803","name":"Yakutat Airport","city":"Yakutat","country":"United States","faa":"YAK","icao":"PAYA","alt":"33","tz-offset":"-9","dst":"A","tz":"America/Anchorage","on_time":84.64,"description":"Yakutat, AK: Yakutat Airport"},"geometry":{"type":"Point","coordinates":[-139.660003662,59.5032997131]}}
+,
+{"type":"Feature","properties":{"id":"6837","name":"Ford Airport","city":"Iron Mountain","country":"United States","faa":"IMT","icao":"KIMT","alt":"1182","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":88.42,"description":"Iron Mountain/Kingsfd, MI: Ford"},"geometry":{"type":"Point","coordinates":[-88.1145019531,45.8184013367]}}
+,
+{"type":"Feature","properties":{"id":"6880","name":"Montrose Regional Airport","city":"Montrose CO","country":"United States","faa":"MTJ","icao":"KMTJ","alt":"5759","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":81.16,"description":"Montrose/Delta, CO: Montrose Regional"},"geometry":{"type":"Point","coordinates":[-107.893997192,38.509799957300004]}}
+,
+{"type":"Feature","properties":{"id":"6957","name":"Brainerd Lakes Regional Airport","city":"Brainerd","country":"United States","faa":"BRD","icao":"KBRD","alt":"1232","tz-offset":"-6","dst":"U","tz":"America/Chicago","on_time":91.62,"description":"Brainerd, MN: Brainerd Lakes Regional"},"geometry":{"type":"Point","coordinates":[-94.13809967,46.39830017]}}
+,
+{"type":"Feature","properties":{"id":"6989","name":"Northeast Florida Regional Airport","city":"St. Augustine Airport","country":"United States","faa":"UST","icao":"KSGJ","alt":"10","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":56.06,"description":"St. Augustine, FL: Northeast Florida Regional"},"geometry":{"type":"Point","coordinates":[-81.339797973633,29.959199905396]}}
+,
+{"type":"Feature","properties":{"id":"6992","name":"Charles M. Schulz Sonoma County Airport","city":"Santa Rosa","country":"United States","faa":"STS","icao":"KSTS","alt":"128","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":68.54,"description":"Santa Rosa, CA: Charles M. Schulz - Sonoma County"},"geometry":{"type":"Point","coordinates":[-122.8130035,38.50899887]}}
+,
+{"type":"Feature","properties":{"id":"7001","name":"Aspen-Pitkin Co/Sardy Field","city":"Aspen","country":"United States","faa":"ASE","icao":"KASE","alt":"7820","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":73.17,"description":"Aspen, CO: Aspen Pitkin County Sardy Field"},"geometry":{"type":"Point","coordinates":[-106.8690033,39.22320175]}}
+,
+{"type":"Feature","properties":{"id":"7014","name":"Hays Regional Airport","city":"Hays","country":"United States","faa":"HYS","icao":"KHYS","alt":"1999","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":81.25,"description":"Hays, KS: Hays Regional"},"geometry":{"type":"Point","coordinates":[-99.27320099,38.84220123]}}
+,
+{"type":"Feature","properties":{"id":"7051","name":"Gunnison Crested Butte Regional Airport","city":"Gunnison","country":"United States","faa":"GUC","icao":"KGUC","alt":"7680","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":69.35,"description":"Gunnison, CO: Gunnison-Crested Butte Regional"},"geometry":{"type":"Point","coordinates":[-106.9329987,38.53390121]}}
+,
+{"type":"Feature","properties":{"id":"7056","name":"Charlotte County Airport","city":"Punta Gorda","country":"United States","faa":"PGD","icao":"KPGD","alt":"26","tz-offset":"-5","dst":"A","tz":"America/New_York","on_time":79.41,"description":"Punta Gorda, FL: Punta Gorda Airport"},"geometry":{"type":"Point","coordinates":[-81.9905014,26.92020035]}}
+,
+{"type":"Feature","properties":{"id":"7063","name":"Devils Lake Regional Airport","city":"Devils Lake","country":"United States","faa":"DVL","icao":"KDVL","alt":"1456","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":80.45,"description":"Devils Lake, ND: Devils Lake Regional"},"geometry":{"type":"Point","coordinates":[-98.90879822,48.11420059]}}
+,
+{"type":"Feature","properties":{"id":"7072","name":"Yellowstone Airport","city":"West Yellowstone","country":"United States","faa":"WYS","icao":"KWYS","alt":"6649","tz-offset":"-7","dst":"A","tz":"America/Denver","on_time":81.9,"description":"West Yellowstone, MT: Yellowstone"},"geometry":{"type":"Point","coordinates":[-111.1179962,44.68840027]}}
+,
+{"type":"Feature","properties":{"id":"7081","name":"Mammoth Yosemite Airport","city":"Mammoth Lakes","country":"United States","faa":"MMH","icao":"KMMH","alt":"7135","tz-offset":"-8","dst":"A","tz":"America/Los_Angeles","on_time":49.46,"description":"Mammoth Lakes, CA: Mammoth Lakes Airport"},"geometry":{"type":"Point","coordinates":[-118.8379974,37.62409973]}}
+,
+{"type":"Feature","properties":{"id":"7669","name":"Northwest Florida Beaches International Airport","city":"Panama City","country":"United States","faa":"ECP","icao":"KECP","alt":"69","tz-offset":"-6","dst":"A","tz":"America/Chicago","on_time":82.23,"description":"Panama City, FL: Northwest Florida Beaches International"},"geometry":{"type":"Point","coordinates":[-85.795414,30.357106]}}]}

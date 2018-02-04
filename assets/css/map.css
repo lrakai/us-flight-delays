@@ -10,7 +10,7 @@
 .map-overlay {
     position: absolute;
     right: 0;
-    background: rgba(255, 255, 255, 0.8);
+    background: rgba(255, 255, 255, 0.9);
     margin: 10px;
     padding: 10px;
     font-family: Arial, sans-serif;
@@ -41,12 +41,14 @@
     font-weight: bold;
 }
 
+.map-overlay p {
+    margin: 0 0 0 10px;
+}
+
 .legend {
     box-shadow: 0 1px 2px rgba(0,0,0,0.10);
     line-height: 18px;
-    height: 150px;
-    bottom: 0;
-    width: 100px;
+    bottom: 20px;
 }
 
 .legend-key {

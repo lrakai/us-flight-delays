@@ -11,8 +11,8 @@ onTimeArrivalMap.on('load', function () {
         data: '/us-flight-delays/data/data_by_state.json'
     });
 
-    var layers = ['73.8%', '88.4%'];
-    var colors = ['#FF0000', '#00FF00'];
+    var layers = ['73.8%', '81.1%', '88.4%'];
+    var colors = ['#FF0000', '#808000', '#00FF00'];
     for (i = 0; i < layers.length; i++) {
         var layer = layers[i];
         var color = colors[i];
@@ -39,7 +39,7 @@ onTimeArrivalMap.on('mousemove', function (e) {
     });
 
     if (states.length > 0) {
-        document.getElementById('on-time-arrival-feature').innerHTML = '<h3><strong>' + states[0].properties.state + '</strong></h3><p><strong><em>' + Math.round(states[0].properties.on_time) + '</strong> % flights on time</em></p>';
+        document.getElementById('on-time-arrival-feature').innerHTML = '<p><strong><em>' + Math.round(states[0].properties.on_time) + '</strong>% in ' + states[0].properties.state + '</em></p>';
     } else {
         document.getElementById('on-time-arrival-feature').innerHTML = '<p>Hover over a state!</p>';
     }

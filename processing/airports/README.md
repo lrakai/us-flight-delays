@@ -1,3 +1,3 @@
 # airports
 
-Based on the openflights-geojson GitHub project by @tmcw.
+Forked from the [openflights-geojson](https://github.com/node-geojson/openflights-geojson) GitHub project by @tmcw.

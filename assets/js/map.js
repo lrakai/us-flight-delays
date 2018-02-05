@@ -59,7 +59,7 @@
 
         var feature = e.features[0];
         popup.setLngLat(feature.geometry.coordinates)
-            .setText(feature.properties.on_time + ' % ' + feature.properties.name + ' (' + feature.properties.faa + ')')
+            .setText(feature.properties.on_time + ' % ' + feature.properties.faa + ' (' + feature.properties.name + ')')
             .addTo(onTimeArrivalMap);
     });
 

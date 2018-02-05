@@ -1,9 +1,10 @@
 #!/usr/bin/env bash
 
-raw_data=OnewayT_ONTIME2017.csv
-temp_data=temp-`date +%d-%m-%y-%H-%M-%S`.csv
-cleansed_data=data_by_state.csv
-average_data=state_avg_on_time.csv
+data_dir=../data
+raw_data=$data_dir/OnewayT_ONTIME2017.csv
+temp_data=$data_dir/temp-`date +%d-%m-%y-%H-%M-%S`.csv
+cleansed_data=$data_dir/data_by_state.csv
+average_data=$data_dir/state_avg_on_time.csv
 
 header=`head -2 $raw_data`
 

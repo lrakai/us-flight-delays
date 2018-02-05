@@ -21,6 +21,10 @@
 
     mapboxgl.accessToken = 'pk.eyJ1IjoibG9nYW5yYWthaSIsImEiOiJjamQyN3g1MWEzYTkyMnFvNTQ4bTBiNmM5In0._rOGIXy3ShPY8239enazAw';
 
+    var popup = new mapboxgl.Popup({
+        closeButton: false
+    });
+
     var onTimeArrivalMap = new mapboxgl.Map({
         container: 'on-time-arrival-map',
         style: 'mapbox://styles/loganrakai/cjd28m04f36vn2srs7ru8549r'
@@ -49,4 +53,19 @@
             document.getElementById('on-time-arrival-feature').innerHTML = '<p>Hover over a state!</p>';
         }
     });
+
+    onTimeArrivalMap.on('mousemove', 'us-airports-with-on-time', function(e) {
+        onTimeArrivalMap.getCanvas().style.cursor = 'pointer';
+
+        var feature = e.features[0];
+        popup.setLngLat(feature.geometry.coordinates)
+            .setText(feature.properties.on_time + ' % ' + feature.properties.name + ' (' + feature.properties.faa + ')')
+            .addTo(onTimeArrivalMap);
+    });
+
+    onTimeArrivalMap.on('mouseleave', 'us-airports-with-on-time', function() {
+        onTimeArrivalMap.getCanvas().style.cursor = 'default';
+        popup.remove();
+    });
+
 })()
